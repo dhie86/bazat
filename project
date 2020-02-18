@@ -113,6 +113,8 @@ https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-m
 
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM",FOX
 https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_499968=13-FoxChannel-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM",FOX MOVIE
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D3
 
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM", HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_98800_eng=5.m3u8
