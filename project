@@ -560,3 +560,134 @@ http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0S1bAQA1Xjjfcf_C0agfo0lkMvzsx6G9_bjNXz5O12DC9QCMC" group-title="KIDS", One Punch Man
 http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+
+########### MUSIC ###########
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/treetog/junior/128/folder-blue-music-icon.png" group-title="MUSIC",MUSMFM MUSIK
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40924
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/treetog/junior/128/folder-blue-music-icon.png" group-title="MUSIC",MUSMTV Kosova
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40930
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/treetog/junior/128/folder-blue-music-icon.png" group-title="MUSIC",MUSMuse TV
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40931
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/treetog/junior/128/folder-blue-music-icon.png" group-title="MUSIC",MUSMusic TV
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40934
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/treetog/junior/128/folder-blue-music-icon.png" group-title="MUSIC",MUSMy Music
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/40935
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/treetog/junior/128/folder-blue-music-icon.png" group-title="MUSIC",MUSZICO TV
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/41149
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/752px-Prambors.svg.png" group-title="MUSIC",Prambors
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7oHRbxKOo2pAkoJ3VSw9ARmIjfPHuDs2SyU9TWso2n3Z5-3RJ" group-title="MUSIC",MIX
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSE0kJWf-RCmLa4tTuedF23MOKeOVm50UjxhxA_EqN067qGVaeO" group-title="MUSIC",Channel V
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_111.png" group-title="MUSIC",Music TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="MUSIC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="MUSIC",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcXQvmc.png" group-title="MUSIC",Dangdut Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEqBekJgxnow7bJYYKDoQMtOfUO22uP9bEzSVCYYUGTJABQ8-c" group-title="MUSIC",Karaoke Indonesia
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/mtv-logo-png-open-2000.png" group-title="MUSIC",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" group-title="MUSIC",MTV+
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE0y1Jo7mTOM6X78bwRQ8BoZ6TgHZnXk2hZE9wmOEfhtrOIae7" group-title="MUSIC",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTQ8BvoLcW9Mn7Sx7XEpzTDvcOlRUlIYdWFkBRKPbAKp4RGP4g" group-title="MUSIC",One Music
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CLUBBING_TV_HD_2014.png/revision/latest/scale-to-width-down/340?cb=20191025112332" group-title="MUSIC",Clubbing TV
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+#EXTINF:-1 tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" group-title="MUSIC",B Music Session
+https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
+#EXTINF:-1 tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" group-title="MUSIC",Music Concert
+https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2RZ4QM.png" group-title="MUSIC", MIX
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/buwMvPS.png" group-title="MUSIC", DANGDUTZ
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CUgQtCo.jpg" group-title="MUSIC", KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oEtAUZ1.png" group-title="MUSIC", MTV ASIA
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhWybjd.png" group-title="MUSIC", TRACE AFRICA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yn7fa5f.png" group-title="MUSIC", TRACE KITOTO
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMi11JZ.png" group-title="MUSIC", TRACE MZIKI
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apzkVWZ.png" group-title="MUSIC", MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LgQBtTh.jpg" group-title="MUSIC", XALASTRA TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sm3iQVK.png" group-title="MUSIC", SURYA MUSIC
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWJ8nJB.jpg" group-title="MUSIC", V2BEAT TV
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0fNQkb.png" group-title="MUSIC", UTV
+http://81.196.0.126/utvedge/utvlive/playlist.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="MUSIC", TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/piGhf3m.png" group-title="MUSIC", TILE MOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJONLdX.png" group-title="MUSIC", RUSSIAN MUSICBOX
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lIGRRVi.png" group-title="MUSIC", RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWkR2Uj.png" group-title="MUSIC", RTS MUZIKE
+http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dr9D0RN.png" group-title="MUSIC", ROTANA MUSIC
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T9bSnTG.png" group-title="MUSIC", RETRO MUSIC
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LtPlwFI.png" group-title="MUSIC", CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75ADzoD.png" group-title="MUSIC", B4U MUSIC
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Yz4N2c.png" group-title="MUSIC", DEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", DIL SE
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLoL76n.jpg" group-title="MUSIC", CINE VOICE
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9kabyV.jpg" group-title="MUSIC", DESI CHANNEL
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="MUSIC", KADAK HITS
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", COMPANY TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2K6xqz.jpg" group-title="MUSIC", REDLIGHT
+http://cdn-hlm-1.streamnerd.nl/live/redlightradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NCqfXuX.png" group-title="MUSIC", RANCHENATO TV
+http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/chunklist_b1044100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1AjyN8B.png" group-title="MUSIC", RADIONORBA TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NiO6TYC.png" group-title="MUSIC", RADIOZETA
+https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", RTA
+http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SztpK9s.png" group-title="MUSIC", DEUTSCH MUSIK
+http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="MUSIC", GABRUU TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zAFt893.png" group-title="MUSIC", GO RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LegZCUI.png" group-title="MUSIC", INDIEWAVE
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7H8WKei.png" group-title="MUSIC", KRAL POP
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="MUSIC", KRONE HIT
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="MUSIC", KURIAKOS MUSIC
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BT6jnfv.jpg" group-title="MUSIC", LEEEKO TV
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="MUSIC", DJING HITS
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="MUSIC", DJING ELECTRO ROCK
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="MUSIC", DJING FRENCH TOUCH
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="MUSIC", DJING HOTZ
+https://www.djing.com/tv/h-01-fta.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="MUSIC", DJING KARAOKE
+https://www.djing.com/tv/karaoke.m3u8
