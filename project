@@ -97,8 +97,6 @@ https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-m
 
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM",FOX
 https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_499968=13-FoxChannel-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM",FOX MOVIE
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D3
 
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM", HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_98800_eng=5.m3u8
@@ -167,6 +165,83 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
 http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
+http://skdn.redi-vo.com/iptv/ch202?code=1701273726237058&key=22881
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/4527.png",Canal+ Sport Cy
+http://skdn.redi-vo.com/iptv/ch4527?code=1701273726237058&key=39502
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/6528.png",Canal+ Sport 2 Cy
+http://skdn.redi-vo.com/iptv/ch6528?code=1701273726237058&key=64382
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1281.png",M.L. Campeones HD SP
+http://skdn.redi-vo.com/iptv/ch1281?code=1701273726237058&key=32884
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1203.png",LaLiga TV Bar 1
+http://skdn.redi-vo.com/iptv/ch1203?code=1701273726237058&key=10016
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1224.png",Movistar LaLiga 1 HD
+http://skdn.redi-vo.com/iptv/ch1224?code=1701273726237058&key=17683
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
+http://skdn.redi-vo.com/iptv/ch3522?code=1701273726237058&key=12157
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
+http://skdn.redi-vo.com/iptv/ch3525?code=1701273726237058&key=51646
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
+http://skdn.redi-vo.com/iptv/ch3523?code=1701273726237058&key=54617
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
+http://skdn.redi-vo.com/iptv/ch3524?code=1701273726237058&key=24582
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
+http://skdn.redi-vo.com/iptv/ch3526?code=1701273726237058&key=38701
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",Sport TV 1 PT
+http://skdn.redi-vo.com/iptv/ch2123?code=1701273726237058&key=48317
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",Sport TV 2 PT
+http://skdn.redi-vo.com/iptv/ch2124?code=1701273726237058&key=23461
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",Sport TV 3 PT
+http://skdn.redi-vo.com/iptv/ch2125?code=1701273726237058&key=54310
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",Sport TV 4 PT
+http://skdn.redi-vo.com/iptv/ch2126?code=1701273726237058&key=18673
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 PT
+http://skdn.redi-vo.com/iptv/ch2127?code=1701273726237058&key=49822
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/823.png",KSA SPORT 1
+http://skdn.redi-vo.com/iptv/ch823?code=1701273726237058&key=44583
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/824.png",KSA SPORT 2
+http://skdn.redi-vo.com/iptv/ch824?code=1701273726237058&key=38478
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/825.png",KSA SPORT +1
+http://skdn.redi-vo.com/iptv/ch825?code=1701273726237058&key=17779
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/826.png",KSA SPORT +2
+http://skdn.redi-vo.com/iptv/ch826?code=1701273726237058&key=42093
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/6520.png",Eleven Sport 1 Cy
+http://skdn.redi-vo.com/iptv/ch6520?code=1701273726237058&key=28928
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/6521.png",Eleven Sport 2 Cy
+http://skdn.redi-vo.com/iptv/ch6521?code=1701273726237058&key=45470
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/6522.png",Eleven Sport 3 Cy
+http://skdn.redi-vo.com/iptv/ch6522?code=1701273726237058&key=35335
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/6523.png",Eleven Sport 4 Cy
+http://skdn.redi-vo.com/iptv/ch6523?code=1701273726237058&key=23500
+
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/743.png",EuroSport 1 HD
+http://skdn.redi-vo.com/iptv/ch743?code=1701273726237058&key=45912
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/744.png",EuroSport 2 HD
+http://skdn.redi-vo.com/iptv/ch744?code=1701273726237058&key=23667
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2361.png",Tivibu Sport 1
+http://skdn.redi-vo.com/iptv/ch2361?code=1701273726237058&key=18337
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2362.png",Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=1701273726237058&key=10226
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1356.png",Tivibu Sport 3
+http://skdn.redi-vo.com/iptv/ch1356?code=1701273726237058&key=18724
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1284.png",Moto GP HD SP
+http://skdn.redi-vo.com/iptv/ch1284?code=1701273726237058&key=11345
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
+http://skdn.redi-vo.com/iptv/ch1285?code=1701273726237058&key=47444
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://skdn.redi-vo.com/iptv/ch111?code=103131497823984&key=54576
