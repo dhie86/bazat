@@ -85,30 +85,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="PREMIUM",Cinemax
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMIUM",HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMIUM",HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="PREMIUM",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMIUM",HBO Signature HD
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="PREMIUM", AXN
-http://hvod.imirun.net:8080/AXN-HD/index.m3u8
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="PREMIUM",Fox Movies Premium
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQmnvIJdnzVVFi5Rpau-q5rbInVsiT-2E2fXJyu8E3OD7A2KzQ" group-title="PREMIUM",Red by HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="PREMIUM",Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
@@ -164,12 +140,6 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_4999
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORTS",Champions tv 1
-https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORTS",Champions tv 2
-https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="SPORTS",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
@@ -276,18 +246,6 @@ http://skdn.redi-vo.com/iptv/ch1830?code=103131497823984&key=30373
 
 
 
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS 3", Astro Supersport 1
-https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=8zOOHzs7&v=20200202
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS 3", Astro Supersport 2
-https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=8zOOHzs7&v=20200202
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS 3", Astro Supersport 3
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=8zOOHzs7&v=20200202
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS 3", Astro Supersport 4
-https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=8zOOHzs7&v=20200202
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", SKYNET1
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
