@@ -84,6 +84,16 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 
 
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Blue Ant ENTERTAINMENT
+http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Blue Ant EXTREME
+http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Celestial Classic Movies
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="PREMIUM",CELESTIAL MOVIES HD
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
