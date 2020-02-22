@@ -166,20 +166,20 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten2
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten2
 http://163.172.85.133:8080/TenS/1/index.m3u8
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten3
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten3
 http://163.172.85.133:8080/TenS/3/index.m3u8
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
 http://skdn.redi-vo.com/iptv/ch1828?code=103131497823984&key=45498
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
 http://skdn.redi-vo.com/iptv/ch1829?code=103131497823984&key=57494
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
 http://skdn.redi-vo.com/iptv/ch1830?code=103131497823984&key=30373
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",Sony ESPN
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
