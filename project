@@ -84,7 +84,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="PREMIUM",CELESTIAL MOVIES HD
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="PREMIUM",Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
@@ -151,7 +152,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",TVRI SPORT
+#EXTINF:-1 group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten2
@@ -159,6 +160,13 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten3
 http://163.172.85.133:8080/TenS/3/index.m3u8
+
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
+http://skdn.redi-vo.com/iptv/ch1828?code=103131497823984&key=45498
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
+http://skdn.redi-vo.com/iptv/ch1829?code=103131497823984&key=57494
+#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
+http://skdn.redi-vo.com/iptv/ch1830?code=103131497823984&key=30373
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
@@ -391,7 +399,8 @@ https://live.mawintv2.com/03_skynetsport6_480p/chunklist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="SPORT LIVE",TRUESPORT HD3
+https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
 
 #EXTINF:0 group-title="SPORT LIVE"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
 http://skdn.redi-vo.com/iptv/ch340?code=103131497823984&key=46196
