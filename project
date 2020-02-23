@@ -159,13 +159,6 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten3
 http://163.172.85.133:8080/TenS/3/index.m3u8
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
-http://skdn.redi-vo.com/iptv/ch1828?code=103131497823984&key=45498
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
-http://skdn.redi-vo.com/iptv/ch1829?code=103131497823984&key=57494
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
-http://skdn.redi-vo.com/iptv/ch1830?code=103131497823984&key=30373
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
@@ -192,8 +185,6 @@ http://skdn.redi-vo.com/iptv/ch1224?code=1701273726237058&key=17683
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
 http://skdn.redi-vo.com/iptv/ch3522?code=1701273726237058&key=12157
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
-http://skdn.redi-vo.com/iptv/ch3525?code=1701273726237058&key=51646
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
 http://skdn.redi-vo.com/iptv/ch3523?code=1701273726237058&key=54617
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
@@ -207,8 +198,6 @@ http://skdn.redi-vo.com/iptv/ch2123?code=1701273726237058&key=48317
 http://skdn.redi-vo.com/iptv/ch2124?code=1701273726237058&key=23461
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",Sport TV 3 PT
 http://skdn.redi-vo.com/iptv/ch2125?code=1701273726237058&key=54310
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",Sport TV 4 PT
-http://skdn.redi-vo.com/iptv/ch2126?code=1701273726237058&key=18673
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 PT
 http://skdn.redi-vo.com/iptv/ch2127?code=1701273726237058&key=49822
 
@@ -238,46 +227,12 @@ http://skdn.redi-vo.com/iptv/ch744?code=1701273726237058&key=23667
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2361.png",Tivibu Sport 1
 http://skdn.redi-vo.com/iptv/ch2361?code=1701273726237058&key=18337
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2362.png",Tivibu Sport 2
-http://skdn.redi-vo.com/iptv/ch2362?code=1701273726237058&key=10226
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1356.png",Tivibu Sport 3
-http://skdn.redi-vo.com/iptv/ch1356?code=1701273726237058&key=18724
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1284.png",Moto GP HD SP
 http://skdn.redi-vo.com/iptv/ch1284?code=1701273726237058&key=11345
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
 http://skdn.redi-vo.com/iptv/ch1285?code=1701273726237058&key=47444
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://skdn.redi-vo.com/iptv/ch111?code=103131497823984&key=54576
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://skdn.redi-vo.com/iptv/ch113?code=103131497823984&key=39255
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
-http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BeInSport NBA HD 
-http://skdn.redi-vo.com/iptv/ch522?code=103131497823984&key=52241
 
 #EXTM3U
 #EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 1 HD
@@ -299,100 +254,6 @@ http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/365.ts
 #EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 6 HD
 http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/366.ts
 
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/1831.png",Eurosport2 DE
-http://skdn.redi-vo.com/iptv/ch1519?code=103131497823984&key=41593
-
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",Sky Bundesliga 1 DE
-http://skdn.redi-vo.com/iptv/ch1521?code=103131497823984&key=16425
-
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",SKY Sport news UK
-http://skdn.redi-vo.com/iptv/ch1053?code=103131497823984&key=62639
-
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",SKY Sport Football UK
-http://skdn.redi-vo.com/iptv/ch922?code=103131497823984&key=22520
-
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",Sky Sport Premium UK
-http://skdn.redi-vo.com/iptv/ch937?code=103131497823984&key=57619
-
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
-http://skdn.redi-vo.com/iptv/ch1828?code=103131497823984&key=45498
-
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 2
-http://skdn.redi-vo.com/iptv/ch1829?code=103131497823984&key=57494
-
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 3
-http://skdn.redi-vo.com/iptv/ch1830?code=103131497823984&key=30373
-
-
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", SKYNET1
-http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",FOX SPORT HD1
-https://live.mawintv2.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-foxsports2.png",FOX SPORT 2
-https://live.mawintv2.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-foxsports3.png",FOX SPORT 3
-https://live.mawintv2.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport2.png",TRUE SPORT 2
-https://live.mawintv2.com/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport5.png",TRUE SPORT 5
-https://live.mawintv2.com/02_sport5_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport6.png",TRUE SPORT 6
-https://live.mawintv2.com/02_sport6_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport7.png",TRUE SPORT 7
-https://live.mawintv2.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport1.png",TRUE SPORT HD1
-https://live.mawintv2.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport2.png",TRUE SPORT HD2
-https://live.mawintv2.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",TRUE SPORT HD3
-https://live.mawintv2.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport4.png",TRUE SPORT HD4
-https://live.mawintv2.com/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tennis.png",TENNIS HD
-https://live.mawintv2.com/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl1-2.png",Premier Football HD 1
-https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl2.png",Premier Football HD 2
-https://live.mawintv2.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsportshd-1.png",SKYNET SPORT HD
-https://live.mawintv2.com/03_skynetsporthd_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports1.png",SKYNET SPORT 1
-https://live.mawintv2.com/03_skynetsport1_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports2.png",SKYNET SPORT 2
-https://live.mawintv2.com/03_skynetsport2_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports3.png",SKYNET SPORT 3
-https://live.mawintv2.com/03_skynetsport3_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports4.png",SKYNET SPORT 4
-https://live.mawintv2.com/03_skynetsport4_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports5.png",SKYNET SPORT 5
-https://live.mawintv2.com/03_skynetsport5_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS 3" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SKYNET SPORT 6
-https://live.mawintv2.com/03_skynetsport6_480p/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="OLIMPIC CHANNEL 1" tvg-logo="" group-title="SPORT LIVE",OLYMPIC CHANNEL 1 
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8 
 #EXTINF:-1 tvg-ID="" tvg-name="OLIMPIC CHANNEL 2" tvg-logo="" group-title="SPORT LIVE",OLYMPIC CHANNEL 2 
@@ -406,35 +267,6 @@ http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
 #EXTINF:-1 group-title="SPORT LIVE",TRUESPORT HD3
 https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
-
-#EXTINF:0 group-title="SPORT LIVE"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
-http://skdn.redi-vo.com/iptv/ch340?code=103131497823984&key=46196
-
-#EXTINF:0 group-title="SPORT LIVE"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 5
-http://skdn.redi-vo.com/iptv/ch341?code=103131497823984&key=45618
-
-#EXTINF:0 group-title="SPORT LIVE"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 6
-http://skdn.redi-vo.com/iptv/ch342?code=103131497823984&key=61413
-
-#EXTINF:0 group-title="SPORT LIVE"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 7
-http://skdn.redi-vo.com/iptv/ch343?code=103131497823984&key=52352
-
-#EXTINF:0 group-title="SPORT LIVE"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 8
-http://skdn.redi-vo.com/iptv/ch344?code=103131497823984&key=31483
-
-#EXTINF:0 group-title="SPORT LIVE"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 9
-http://skdn.redi-vo.com/iptv/ch345?code=103131497823984&key=28076
-
-#EXTINF:-1 group-title="SPORT LIVE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl3.png",Premier Football HD 3
-https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORT LIVE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl4-1.png",Premier Football HD 4
-https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORT LIVE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl5.png",Premier Football HD 5
-https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
-
-
 
 ########## KIDS ###########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="KIDS",Disney Channel HD
