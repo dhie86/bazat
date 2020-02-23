@@ -281,25 +281,23 @@ http://skdn.redi-vo.com/iptv/ch522?code=103131497823984&key=52241
 
 #EXTM3U
 #EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 1 HD
-http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.ts
 
 #EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 2 HD
-http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&key=43971
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/362.ts
 
 #EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 3 HD
-http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&key=13496
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/363.ts
 
 #EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 4 HD
-http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/364.ts
 
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport 1 FR
-http://skdn.redi-vo.com/iptv/ch119?code=103131497823984&key=62807
 
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport 2 FR
-http://skdn.redi-vo.com/iptv/ch120?code=103131497823984&key=38010
+#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 5 HD
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/365.ts
 
-#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport 3 FR
-http://skdn.redi-vo.com/iptv/ch206?code=103131497823984&key=26341
+#EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 6 HD
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/366.ts
 
 #EXTINF:0 group-title="SPORT 2"tvg-logo="http://logo.ddnb.tn/logochanel/1831.png",Eurosport2 DE
 http://skdn.redi-vo.com/iptv/ch1519?code=103131497823984&key=41593
