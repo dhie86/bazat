@@ -146,12 +146,23 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",beIN Sports 5 HD
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/55891.ts
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",beIN Sports 11 HD
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/55897.ts
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BEIN SPORT 1
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58016.ts
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
 http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport
 http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeIn
 http://46.60.1.82:8081/live/hdmib1/playlist.m3u8
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",Bein NBA HD
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/56083.ts
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten2
 http://163.172.85.133:8080/TenS/1/index.m3u8
@@ -165,6 +176,10 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
 http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
 
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",Abu Dhabi Sports 3
+https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 1 HD
 http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.ts
@@ -254,8 +269,10 @@ http://skdn.redi-vo.com/iptv/ch1284?code=1701273726237058&key=11345
 http://skdn.redi-vo.com/iptv/ch1285?code=1701273726237058&key=47444
 
 ########## LIVE ###########
-#EXTINF:-1 group-title="SPORT LIVE",TRUESPORT HD3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORT LIVE",TRUESPORT HD3
 https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORT LIVE",bein sport
+http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORT LIVE",OLYMPIC CHANNEL 1 
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORT LIVE",OLYMPIC CHANNEL 2 
