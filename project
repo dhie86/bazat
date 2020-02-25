@@ -15,7 +15,7 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
-https://cdnkbl1.useetv.com/joss/15/sctv/chunklist_w857984807_b1344100_sleng.m3u8?enc=m4Eg82zbcfVcASAZZ33eLg&exp=1582662424
+https://cdnkbl1.useetv.com/joss/15/sctv/chunklist_w857984807_b1344100.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
 https://cdnmdc1.useetv.com/joss/15/antv/chunklist_w1469276598_b894100.m3u8
