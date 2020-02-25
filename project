@@ -340,35 +340,27 @@ https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1
 
 
 ########## SPORTS ###########
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORTS",Champions TV 1
+http://tvku.live:8888/rs378/2992/2407
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORTS",Champions TV 2
+http://tvku.live:8888/rs378/2992/2409
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="SPORTS",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", Olympic 1
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sports 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",CCTV 5 HD
+http://tvku.live:8888/rs378/2992/595
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",CCTV 5 HD+
+http://tvku.live:8888/rs378/2992/814
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",MBC Sports
+http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SBS Sports
+http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="SPORTS",TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",beIN Sports 5 HD
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/55891.ts
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BEIN SPORT 1
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58016.ts
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport
-http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeIn
-http://46.60.1.82:8081/live/hdmib1/playlist.m3u8
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",Bein NBA HD
-http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/56083.ts
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SONY ten2
 http://163.172.85.133:8080/TenS/1/index.m3u8
@@ -386,24 +378,6 @@ http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",Abu Dhabi Sports 3
 https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 1 HD
-http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.ts
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 2 HD
-http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/362.ts
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 3 HD
-http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/363.ts
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 4 HD
-http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/364.ts
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 5 HD
-http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/365.ts
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 6 HD
-http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/366.ts
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
 http://skdn.redi-vo.com/iptv/ch202?code=1701273726237058&key=22881
@@ -474,6 +448,221 @@ http://skdn.redi-vo.com/iptv/ch1284?code=1701273726237058&key=11345
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
 http://skdn.redi-vo.com/iptv/ch1285?code=1701273726237058&key=47444
 
+########## USE TV ###########
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="USE+MNC",Usee Sport 2
+http://tvku.live:8888/rs378/2992/2408
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",USee Prime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",USee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC", MNC Sports 1
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC", MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="USE+MNC",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+########## BEIN SPORT ###########
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Max HD Malaysia
+http://tvku.live:8888/rs378/2992/4272
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN LaLiga
+http://tvku.live:8888/rs378/2992/416
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 1
+http://tvku.live:8888/rs378/2992/10
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 2
+http://tvku.live:8888/rs378/2992/11
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 3
+http://tvku.live:8888/rs378/2992/12
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 4
+http://tvku.live:8888/rs378/2992/217
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 5
+http://tvku.live:8888/rs378/2992/218
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 6
+http://tvku.live:8888/rs378/2992/219
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 7
+http://tvku.live:8888/rs378/2992/220
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 8
+http://tvku.live:8888/rs378/2992/221
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 9
+http://tvku.live:8888/rs378/2992/222
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 10
+http://tvku.live:8888/rs378/2992/253
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 11
+http://tvku.live:8888/rs378/2992/254
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 12
+http://tvku.live:8888/rs378/2992/255
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Sports 13
+http://tvku.live:8888/rs378/2992/3246
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",beIN Sports 5 HD
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/55891.ts
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BEIN SPORT 1
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/58016.ts
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 8 HD
+http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport
+http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIn
+http://46.60.1.82:8081/live/hdmib1/playlist.m3u8
+#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",Bein NBA HD
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/56083.ts
+
+########## FOX SPORT ###########
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1 US
+http://tvku.live:8888/rs378/2992/51
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 2 US
+http://tvku.live:8888/rs378/2992/102
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 3 US
+http://tvku.live:8888/rs378/2992/101
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
+http://primeb.fr33.click/live/157?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png", Fox Sports 2 DK
+http://primeb.fr33.click/live/156?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",FOX Sports 2
+http://primeb.fr33.click/live/5645?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 3 DK
+http://primeb.fr33.click/live/155?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",FOX Sports 3
+http://primeb.fr33.click/live/7474?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 4
+http://primeb.fr33.click/live/154?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 4
+http://primeb.fr33.click/live/7475?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 5
+http://primeb.fr33.click/live/153?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 5
+http://primeb.fr33.click/live/7476?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 6
+http://primeb.fr33.click/live/152?u=INo1beQm3U&s=dYUeQCJVJL
+
+
+########## ASTRO ###########
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Super Sports 1 HD
+http://tvku.live:8888/rs378/2992/4156
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Super Sports 2 HD
+http://tvku.live:8888/rs378/2992/4155
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Super Sports 3 HD
+http://tvku.live:8888/rs378/2992/4154
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Super Sports 4 HD
+http://tvku.live:8888/rs378/2992/4153
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro EPL 1 HD
+http://tvku.live:8888/rs378/2992/4233
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro EPL 2 HD
+http://tvku.live:8888/rs378/2992/4234
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro EPL 3 HD
+http://tvku.live:8888/rs378/2992/4235
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Arena HD
+http://tvku.live:8888/rs378/2992/4236
+
+########## TRUE ###########
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True EPL
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True EPL2
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True EPL3
+https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True EPL4
+https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True EPL5
+https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True Sport HD
+https://dl.dropboxusercontent.com/s/f5iu5d3fnptsulh/TSportHD.m3u8
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True Sport HD2
+https://dl.dropboxusercontent.com/s/radwkifazgs930b/TSportHD2.m3u8
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True Sport HD3
+https://dl.dropboxusercontent.com/s/0ctv99lbo6z7lhf/TSportHD3.m3u8
+#EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True Sport HD4
+https://dl.dropboxusercontent.com/s/hdjdo7nocnfsdnq/TSportHD4.m3u8
+
+########## RMC SPORT ###########
+#EXTINF:0 group-title="RMC SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 1 HD
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.ts
+
+#EXTINF:0 group-title="RMC SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 2 HD
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/362.ts
+
+#EXTINF:0 group-title="RMC SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 3 HD
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/363.ts
+
+#EXTINF:0 group-title="RMC SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 4 HD
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/364.ts
+
+#EXTINF:0 group-title="RMC SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 5 HD
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/365.ts
+
+#EXTINF:0 group-title="RMC SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC Sport 6 HD
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/366.ts
+
+########## SUPER SPORT ###########
+
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 1
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/825
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 2
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/826
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 3
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/827
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 4
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/828
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 5
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/829
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 6
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/830
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 7
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/831
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 8
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/832
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 9
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/833
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 10
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/834
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 11
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/835
+#EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 12
+http://ivtvuk.com:8080/Asadmanzur/IResdX1O/836
+
+########## LIVE ###########
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 1
+http://prime.fr33.click/live/2393?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 2
+http://prime.fr33.click/live/2394?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 3
+http://prime.fr33.click/live/2395?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 4
+http://prime.fr33.click/live/2396?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 5
+http://prime.fr33.click/live/2397?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 6
+http://prime.fr33.click/live/2398?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 7
+http://prime.fr33.click/live/2399?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 8
+http://prime.fr33.click/live/2400?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 9
+http://prime.fr33.click/live/2401?u=INo1beQm3U&s=dYUeQCJVJL
+#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 10
+http://prime.fr33.click/live/2402?u=INo1beQm3U&s=dYUeQCJVJL
+
+########## LIVE ###########
+#EXTINF:-1 group-title="LIVE DURING GAMES",Bein Sports HD
+http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
+#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 1 HD
+http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
+#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 2 HD
+http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
+#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 3 HD
+http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
+#EXTINF:-1 group-title="LIVE DURING GAMES",BT SPORT ESPN
+tp://weak_spell.carniferou.club/edge/BTESPN/chunks.m3u8
+#EXTINF:-1 group-title="LIVE DURING GAMES",NBCSN
+http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+#EXTINF:-1 group-title="LIVE DURING GAMES",SKY SPORTS MAIN EVENT
+http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
+#EXTINF:-1 group-title="LIVE DURING GAMES",PREMIER SPORTS
+http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
+#EXTINF:-1 group-title="LIVE DURING GAMES",PREMIER SPORTS 2
+http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
+
 ########## LIVE ###########
 
 #EXTINF:0 group-title="SPORT LIVE"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein sport
@@ -493,6 +682,43 @@ http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORT LIVE",OLYMPIC CHANNEL 5 
 http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
+
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 1
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 2
+https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 4
+https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 5
+https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 6
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 7
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 8
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 9
+https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 10
+https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 11
+https://dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 12
+https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 13
+https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 14
+https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 15
+https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 16
+https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 17
+https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 18
+https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
 
 
 ########### MUSIC ###########
