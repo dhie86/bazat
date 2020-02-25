@@ -340,11 +340,6 @@ https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1
 
 
 ########## SPORTS ###########
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORTS",Champions TV 1
-http://tvku.live:8888/rs378/2992/2407
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORTS",Champions TV 2
-http://tvku.live:8888/rs378/2992/2409
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="SPORTS",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
@@ -463,6 +458,11 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="USE+MNC",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORTS",Champions TV 1
+http://tvku.live:8888/rs378/2992/2407
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="SPORTS",Champions TV 2
+http://tvku.live:8888/rs378/2992/2409
+
 
 ########## BEIN SPORT ###########
 #EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeIN Max HD Malaysia
