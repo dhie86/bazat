@@ -30,8 +30,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_s
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
-https://cdnmdc2.useetv.com/joss/15/metrotv/chunklist_w377818199_b1344100.m3u8
-
+https://cdnbdsa1.useetv.com/joss/15/metrotv/chunklist_w377818199_b1344100_sleng.m3u8?enc=i8zK08zSxkfuoT5QkwwX3Q&exp=1582676666
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VD6kGJ.png" group-title="LOKAL",Kompas TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
