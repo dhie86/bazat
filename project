@@ -457,7 +457,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="USE+MNC",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="BEIN SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein usetv
+#EXTINF:0 group-title="USE+MNC"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein usetv
 https://cdnkbl2.useetv.com/joss/17/bein1/chunklist_w149065660_b8128000_sleng.m3u8?enc=m0u8qtJc9mxTOdd7uNPV-w&exp=1582660728
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE+MNC",Champions TV 1
