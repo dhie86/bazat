@@ -16,7 +16,7 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://cdnkbl1.useetv.com/joss/15/sctv/chunklist_w857984807_b1344100_sleng.m3u8?enc=m4Eg82zbcfVcASAZZ33eLg&exp=1582662424
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
 https://cdnkbl2.useetv.com/joss/15/antv/chunklist_w1469276598_b894100_sleng.m3u8?enc=cyd8DcoWA06MRKKdrOdNZQ&exp=1582660255
@@ -28,6 +28,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_s
 
 #EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL", TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
+https://cdnmdc2.useetv.com/joss/15/metrotv/chunklist_w377818199_b1344100_sleng.m3u8?enc=Ptv8YKVi6Byosaq4HqWqpg&exp=1582661962
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VD6kGJ.png" group-title="LOKAL",Kompas TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
@@ -61,9 +64,6 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b228
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1bCxIG.png" group-title="LOKAL", JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", iNews HD
@@ -443,27 +443,34 @@ http://skdn.redi-vo.com/iptv/ch1284?code=1701273726237058&key=11345
 http://skdn.redi-vo.com/iptv/ch1285?code=1701273726237058&key=47444
 
 ########## USE TV ###########
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="USE+MNC",Usee Sport 2
-http://tvku.live:8888/rs378/2992/2408
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",USee Prime
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",USee Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",Usee sport
+https://cdnkbl1.useetv.com/joss/15/useesport/chunklist_w27662587_b1344100_sleng.m3u8?enc=eybi-U-DbuWNnIxSUVe0iw&exp=1582662235
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",Usee Sport 2
+https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w184955421_b1344100_sleng.m3u8?enc=ga9xZOnNhefdjQPtzYp6oQ&exp=1582662287
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC", MNC Sports 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC", MNC Sports 1
+https://cdnkbl2.useetv.com/joss/15/useesport/chunklist_w27662587_b1344100_sleng.m3u8?enc=hHDRa9C3h89hLKpzhaswrg&exp=1582661376
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC", MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+https://cdnbpp1.useetv.com/joss/15/useesports2/chunklist_w184955421_b1344100_sleng.m3u8?enc=EhzXRe5qWYsg0cHRVIhctw&exp=1582661403
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="USE+MNC",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="USE+MNC"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein usetv
+#EXTINF:0 group-title="USE+MNC"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
 https://cdnkbl2.useetv.com/joss/17/bein1/chunklist_w149065660_b8128000_sleng.m3u8?enc=m0u8qtJc9mxTOdd7uNPV-w&exp=1582660728
+#EXTINF:0 group-title="USE+MNC"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
+https://cdnbal1.useetv.com/joss/17/bein2/chunklist_w40867822_b1344100_sleng.m3u8?enc=hqX1k1ex_ZTbXFsp_lWm-A&exp=1582662090
+
+#EXTINF:-1 group-title="USE+MNC" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
+https://cdnbal1.useetv.com/joss/17/foxsport1/chunklist_w1604737106_b1344100_sleng.m3u8?enc=FALym0FXams_1SIpo9wbFA&exp=1582661579
+#EXTINF:-1 group-title="USE+MNC" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 2
+https://cdnkbl1.useetv.com/joss/17/foxsport2/chunklist_w860318236_b1344100_sleng.m3u8?enc=1GIpzHx2-u6InF0FOSUh7w&exp=1582661721
+#EXTINF:-1 group-title="USE+MNC" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 3
+https://cdnbal1.useetv.com/joss/17/foxsport3/chunklist_w634543200_b1344100_sleng.m3u8?enc=-qDlce2JaTA979ENGaY-gQ&exp=1582661784
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE+MNC",Champions TV 1
-http://tvku.live:8888/rs378/2992/2407
+https://cdnkbl2.useetv.com/joss/194/champion1/chunklist_w1813890210_b1344100_sleng.m3u8?enc=uo_cGmHVU3DIYIPQlXnAgw&exp=1582661853
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE+MNC",Champions TV 2
-http://tvku.live:8888/rs378/2992/2409
+https://cdnmdc2.useetv.com/joss/194/champion2/chunklist_w617107543_b1344100_sleng.m3u8?enc=oG3yIxIIFFsqguj33xt9IA&exp=1582661915
 
 
 ########## BEIN SPORT ###########
