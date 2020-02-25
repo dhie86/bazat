@@ -18,7 +18,7 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-
 https://cdnkbl1.useetv.com/joss/15/sctv/chunklist_w857984807_b1344100_sleng.m3u8?enc=m4Eg82zbcfVcASAZZ33eLg&exp=1582662424
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
-https://cdnkbl2.useetv.com/joss/15/antv/chunklist_w1469276598_b894100_sleng.m3u8?enc=cyd8DcoWA06MRKKdrOdNZQ&exp=1582660255
+https://cdnmdc1.useetv.com/joss/15/antv/chunklist_w1469276598_b894100_sleng.m3u8?enc=k8XdZixmqGGjOZxhnroP1A&exp=1582672162
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WaAOJA.png" group-title="LOKAL", TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 
@@ -359,8 +359,7 @@ https://cdnbal1.useetv.com/joss/17/foxsport3/chunklist_w634543200_b1344100_sleng
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE+MNC",Champions TV 1
 https://cdnmdc2.useetv.com/joss/194/champion1/chunklist_w1813890210_b1344100_sleng.m3u8?enc=VKvtTuBuJJijPJa9HOZ2bw&exp=1582671485
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE+MNC",Champions TV 2
-https://cdnmdc2.useetv.com/joss/194/champion2/chunklist_w617107543_b1344100_sleng.m3u8?enc=oG3yIxIIFFsqguj33xt9IA&exp=1582661915
-
+https://cdnkbl2.useetv.com/joss/194/champion2/chunklist_w617107543_b1344100_sleng.m3u8?enc=29VuK2hn44KFmNtOcOD-3g&exp=1582672003
 
 ########## SPORTS ###########
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="SPORTS",Real Madrid TV
@@ -854,4 +853,3 @@ https://www.djing.com/tv/session_french-touch.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="MUSIC", DJING HOTZ
 https://www.djing.com/tv/h-01-fta.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="MUSIC", DJING KARAOKE
 https://www.djing.com/tv/karaoke.m3u8
-
