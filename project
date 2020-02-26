@@ -30,7 +30,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_s
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1582748149~acl=/hls-b/ingest_777_*/*~hmac=6b8f9096ca8527d80b9f5a9af70229c50de2141a6e7dfaf4c4d78f06fa2c15cc/hls-b/ingest_777_720p/index.m3u8
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VD6kGJ.png" group-title="LOKAL",Kompas TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
@@ -73,6 +73,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582748344~acl=/hls-p/ingest_geo_1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Blue Ant ENTERTAINMENT
 http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",CINEMA WORLD
+http://210.210.155.35:80/session/1be19ff4-7252-11e9-8405-a92a8c3111c3/uq2663/h/h04/02.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Blue Ant EXTREME
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
@@ -81,7 +84,7 @@ http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="PREMIUM",Hits Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM", FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-FX-mp4a_98800_eng=3.m3u8
