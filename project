@@ -337,11 +337,10 @@ https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",Usee sport
-https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w27662587_b1344100_sleng.m3u8?enc=oXgUeCXpAtjQWpce6LFKfA&exp=1582675935
+https://cdnjt25.useetv.com/joss/17/bein2/chunklist_w1669106007_b1344100_sleng.m3u8?enc=Yf1LSxwR_zRVaqj0mAxWow&exp=1582743555
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",Usee Sport 2
-https://cdnbdsa1.useetv.com/joss/15/useesports2/chunklist_w184955421_b1344100_sleng.m3u8?enc=4vC5XRn7FTbYGE2U6BUhbQ&exp=1582675987
-
+https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w879747948_b1344100_sleng.m3u8?enc=I-K_llRGAnR37kHNVQMTMQ&exp=1582743608
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC", MNC Sports 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC",MNC Sports 2
@@ -350,19 +349,21 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:0 group-title="USE+MNC"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
-https://cdnbpp1.useetv.com/joss/17/bein1/chunklist_w149065660_b8128000_sleng.m3u8?enc=iBNgXejFOUxfjsxyWiSWmg&exp=1582675857
+https://cdnbpp1.useetv.com/joss/17/bein1/chunklist_w705313696_b1344100_sleng.m3u8?enc=U4besOv85hamr4tp-pFSaQ&exp=1582743406
 
 #EXTINF:0 group-title="USE+MNC"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
-https://edgejt6.useetv.com/joss/17/bein2/chunklist_w40867822_b1344100_sleng.m3u8?enc=c6DyWiwqdRr4UUkyCDuOCA&exp=1582675665
+https://cdnbal1.useetv.com/joss/17/bein2/chunklist_w1669106007_b1344100_sleng.m3u8?enc=qgdUmjZ5FEZSnl7oMSN0iw&exp=1582743465
 
 #EXTINF:-1 group-title="USE+MNC" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
-https://cdnbdsa1.useetv.com/joss/17/foxsport1/chunklist_w1604737106_b1344100_sleng.m3u8?enc=BCtN6uWRIyWv7MlRsfHiFw&exp=1582676029
+https://cdnmdc2.useetv.com/joss/17/foxsport1/chunklist_w1629422635_b1344100_sleng.m3u8?enc=pcSu9jDp8X20-ze2WNKOQw&exp=1582743779
 #EXTINF:-1 group-title="USE+MNC" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 2
-https://cdnbdsa1.useetv.com/joss/17/foxsport2/chunklist_w860318236_b1344100_sleng.m3u8?enc=RMdBXwbOsBxYZR-yYU7IZQ&exp=1582676068
+https://cdnkbl1.useetv.com/joss/17/foxsport2/chunklist_w480933879_b1344100_sleng.m3u8?enc=4FM0gUkU5KoHcS3fZEflWA&exp=1582743830
+#EXTINF:-1 group-title="USE+MNC" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 3
+https://cdnkbl1.useetv.com/joss/17/foxsport3/chunklist_w603692376_b1344100_sleng.m3u8?enc=PgEEByPFTtkFgABUr6Nb8w&exp=1582743897
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE+MNC",Champions TV 1
-https://cdnmdc2.useetv.com/joss/194/champion1/chunklist_w1813890210_b1344100_sleng.m3u8?enc=VKvtTuBuJJijPJa9HOZ2bw&exp=1582671485
+https://cdnbdsa1.useetv.com/joss/194/champion1/chunklist_w508758334_b1344100_sleng.m3u8?enc=nAHLQgujsKI-DUAy7o1vrw&exp=1582743703
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE+MNC",Champions TV 2
-https://edgejt6.useetv.com/joss/194/champion2/chunklist_w617107543_b1344100_sleng.m3u8?enc=--sYX7pi9qzPjDIB3vdi5Q&exp=1582672404
+https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w879747948_b1344100_sleng.m3u8?enc=I-K_llRGAnR37kHNVQMTMQ&exp=1582743608
 
 
 
