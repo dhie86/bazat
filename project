@@ -370,11 +370,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", Olympic 1
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",CCTV 5 HD
-http://tvku.live:8888/rs378/2996/59
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",CCTV 5 HD+
-http://tvku.live:8888/rs378/2993/8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",MBC Sports
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="SPORTS",SBS Sports
@@ -396,8 +391,6 @@ http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",Abu Dhabi Sports 3
-https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
 http://skdn.redi-vo.com/iptv/ch202?code=1701273726237058&key=22881
@@ -550,12 +543,6 @@ http://skdn.redi-vo.com/iptv/ch517?code=103131497823984&key=27619
 http://skdn.redi-vo.com/iptv/ch522?code=103131497823984&key=52241
 
 ########## FOX SPORT ###########
-#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1 US
-http://tvku.live:8888/rs378/2992/51
-#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 2 US
-http://tvku.live:8888/rs378/2992/102
-#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 3 US
-http://tvku.live:8888/rs378/2992/101
 #EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
 http://primeb.fr33.click/live/157?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png", Fox Sports 2 DK
@@ -567,8 +554,6 @@ http://primeb.fr33.click/live/155?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",FOX Sports 3
 http://primeb.fr33.click/live/7474?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 4
-http://primeb.fr33.click/live/154?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 4
 http://primeb.fr33.click/live/7475?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 5
 http://primeb.fr33.click/live/153?u=INo1beQm3U&s=dYUeQCJVJL
@@ -577,24 +562,6 @@ http://primeb.fr33.click/live/7476?u=INo1beQm3U&s=dYUeQCJVJL
 #EXTINF:-1 group-title="FOX SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 6
 http://primeb.fr33.click/live/152?u=INo1beQm3U&s=dYUeQCJVJL
 
-
-########## ASTRO ###########
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Super Sports 1 HD
-http://tvku.live:8888/rs378/2992/4156
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Super Sports 2 HD
-http://tvku.live:8888/rs378/2992/4155
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Super Sports 3 HD
-http://tvku.live:8888/rs378/2992/4154
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Super Sports 4 HD
-http://tvku.live:8888/rs378/2992/4153
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro EPL 1 HD
-http://tvku.live:8888/rs378/2992/4233
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro EPL 2 HD
-http://tvku.live:8888/rs378/2992/4234
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro EPL 3 HD
-http://tvku.live:8888/rs378/2992/4235
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO SPORT",Astro Arena HD
-http://tvku.live:8888/rs378/2992/4236
 
 ########## TRUE ###########
 #EXTINF:-1 group-title="TRUE SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",True EPL
@@ -662,47 +629,6 @@ http://ivtvuk.com:8080/Asadmanzur/IResdX1O/835
 #EXTINF:-1 group-title="SUPER SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SuperSport 12
 http://ivtvuk.com:8080/Asadmanzur/IResdX1O/836
 
-########## LIVE ###########
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 1
-http://prime.fr33.click/live/2393?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 2
-http://prime.fr33.click/live/2394?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 3
-http://prime.fr33.click/live/2395?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 4
-http://prime.fr33.click/live/2396?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 5
-http://prime.fr33.click/live/2397?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 6
-http://prime.fr33.click/live/2398?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 7
-http://prime.fr33.click/live/2399?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 8
-http://prime.fr33.click/live/2400?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 9
-http://prime.fr33.click/live/2401?u=INo1beQm3U&s=dYUeQCJVJL
-#EXTINF:-1 group-title="EPL LIVE GAMES",EPL 10
-http://prime.fr33.click/live/2402?u=INo1beQm3U&s=dYUeQCJVJL
-
-########## LIVE ###########
-#EXTINF:-1 group-title="LIVE DURING GAMES",Bein Sports HD
-http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 1 HD
-http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 2 HD
-http://weak_spell.carniferou.club/edge/BTS2/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",BT Sport 3 HD
-http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",BT SPORT ESPN
-tp://weak_spell.carniferou.club/edge/BTESPN/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",NBCSN
-http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",SKY SPORTS MAIN EVENT
-http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",PREMIER SPORTS
-http://weak_spell.carniferou.club/edge/PS1/chunks.m3u8
-#EXTINF:-1 group-title="LIVE DURING GAMES",PREMIER SPORTS 2
-http://weak_spell.carniferou.club/edge/PS2/chunks.m3u8
 
 ########## LIVE ###########
 
@@ -722,6 +648,7 @@ http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORT LIVE",OLYMPIC CHANNEL 5 
 http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+
 
 
 #EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 1
