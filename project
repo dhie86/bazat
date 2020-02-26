@@ -18,7 +18,7 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582748205~acl=/hls-p/ingest_5409_*/*~hmac=66a6f912fa10795cb3f11bba2c1c7de2f5c17d24b0413e989b133855e1124a1a/hls-p/ingest_5409_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WaAOJA.png" group-title="LOKAL", TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
@@ -30,7 +30,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_s
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
-https://cdnbdsa1.useetv.com/joss/15/metrotv/chunklist_w377818199_b1344100_sleng.m3u8?enc=i8zK08zSxkfuoT5QkwwX3Q&exp=1582676666
+https://etslive-2-vidio-com.akamaized.net/exp=1582748149~acl=/hls-b/ingest_777_*/*~hmac=6b8f9096ca8527d80b9f5a9af70229c50de2141a6e7dfaf4c4d78f06fa2c15cc/hls-b/ingest_777_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VD6kGJ.png" group-title="LOKAL",Kompas TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
@@ -63,10 +63,12 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b228
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1bCxIG.png" group-title="LOKAL", JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", Ochanel
+https://etslive-2-vidio-com.akamaized.net/exp=1582748090~acl=/hls-b/ingest_geo_206_*/*~hmac=ab7aa46e5194d58f6afcb951ab51c72146c076d3c740918144cc9ba50d11b649/hls-b/ingest_geo_206_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", iNews HD
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582748205~acl=/hls-p/ingest_5409_*/*~hmac=66a6f912fa10795cb3f11bba2c1c7de2f5c17d24b0413e989b133855e1124a1a/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", RTV
+https://etslive-2-vidio-com.akamaized.net/exp=1582748344~acl=/hls-p/ingest_geo_1561_*/*~hmac=f22acb18c5f4d7e20efa4a3974292778928b14c9c56704d056c91a56d034d21d/hls-p/ingest_geo_1561_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Blue Ant ENTERTAINMENT
