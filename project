@@ -70,62 +70,62 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582748205~acl=/hls-p/ingest_5409_
 https://etslive-2-vidio-com.akamaized.net/exp=1582748344~acl=/hls-p/ingest_geo_1561_*/*~hmac=f22acb18c5f4d7e20efa4a3974292778928b14c9c56704d056c91a56d034d21d/hls-p/ingest_geo_1561_720p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Blue Ant ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="MOVIE",Blue Ant ENTERTAINMENT
 http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",CINEMA WORLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="MOVIE",CINEMA WORLD
 http://210.210.155.35:80/session/1be19ff4-7252-11e9-8405-a92a8c3111c3/uq2663/h/h04/02.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Blue Ant EXTREME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="MOVIE",Blue Ant EXTREME
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="PREMIUM",CELESTIAL MOVIES HD
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="MOVIE",CELESTIAL MOVIES HD
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="PREMIUM",Hits Movies
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="MOVIE",Hits Movies
 http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="PREMIUM",TVN Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM", FX
+#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE", FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-FX-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM",FOX Life
+#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX Life
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 
-#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM", HITS
+#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE", HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_98800_eng=5.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="PREMIUM",Lifetime
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 
-#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="PREMIUM", Fox Crime HD
+#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE", Fox Crime HD
 https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Thrill.id.png" group-title="PREMIUM", Thrill
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Thrill.id.png" group-title="MOVIE", Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_499968=8-Thrill-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WarnerTV.id.png" group-title="PREMIUM",Warner TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WarnerTV.id.png" group-title="MOVIE",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="PREMIUM", Kix
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIE", Kix
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_499968=8-KIX-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="PREMIUM",Zee Bioskop (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="MOVIE",Zee Bioskop (Opt-1)
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Channel V
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="MOVIE",Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Lifetime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="MOVIE",Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM", History
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="MOVIE", History
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="PREMIUM",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="MOVIE",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
 
 
