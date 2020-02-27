@@ -70,7 +70,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582748344~acl=/hls-p/ingest_geo_1
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee sport
-
+https://edgejt6.useetv.com/joss/15/useesport/chunklist_w1916892499_b1344100_sleng.m3u8?enc=G7yj6aErUZ36jUlgWR-gEQ&exp=1582829644
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee Sport 2
 https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w843853858_b1344100_sleng.m3u8?enc=iQ312ArfJjfk6SsbJZQIGg&exp=1582828376
@@ -105,10 +105,9 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="USE TV SPORT",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",USEE PHOTO
-https://cdnbdsa1.useetv.com/joss/15/useephoto/chunklist_w1776134862_b1344100_sleng.m3u8?enc=RL0kKO1ndVBTBSXcqcyg-g&exp=1582818814
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",USEE PRIME
-https://cdnmdc1.useetv.com/joss/15/useeprime/chunklist_w1801613929_b894100_sleng.m3u8?enc=NrmzvZdQJ6X8b1AyApJQGA&exp=1582818791
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",INDOSIAR
 https://cdnbpp1.useetv.com/joss/15/indosiar/chunklist_w1302022438_b894100_sleng.m3u8?enc=vCLOjMiEu5QVCYSNahi5Mw&exp=1582828636
