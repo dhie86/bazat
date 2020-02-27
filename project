@@ -62,7 +62,7 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b228
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1bCxIG.png" group-title="LOKAL", JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", Ochanel
+#EXTINF:-1 tvg-logo="https://storage-roov.mncdigital.com/upload/radios/1212-jazz.png" group-title="LOKAL", Ochanel
 https://etslive-2-vidio-com.akamaized.net/exp=1582748090~acl=/hls-b/ingest_geo_206_*/*~hmac=ab7aa46e5194d58f6afcb951ab51c72146c076d3c740918144cc9ba50d11b649/hls-b/ingest_geo_206_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", RTV
