@@ -18,7 +18,7 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
-https://cdnmdc1.useetv.com/joss/15/antv/chunklist_w2039486558_b894100_sleng.m3u8?enc=DDGIbDSCRuWIIUuxzfmkmw&exp=1582810973
+http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WaAOJA.png" group-title="LOKAL", TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
