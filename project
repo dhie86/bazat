@@ -129,7 +129,10 @@ https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-Hist
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
 
 
-########## KIDS ###########
+########## KIDS ###########TRICKSTER
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="KIDS",
+https://vod2.useetv.com/vod/mp4:vod/vod/video/anp/new/ANP170191%20TRICKSTER%2012.mp4/chunklist_w978508970.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="KIDS",Disney Channel HD
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="KIDS",Disney Junior
