@@ -70,31 +70,31 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582748344~acl=/hls-p/ingest_geo_1
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee sport
-https://cdnmdc1.useetv.com/joss/15/useesport/chunklist_w1916892499_b1344100_sleng.m3u8?enc=p2WYnxsaXIB3G9JKue6xkg&exp=1582818899
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee Sport 2
-https://cdnkbl1.useetv.com/joss/15/useesports2/chunklist_w843853858_b1344100_sleng.m3u8?enc=jPDOVJpWLqor-FVjC60zoA&exp=1582818923
+https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w843853858_b1344100_sleng.m3u8?enc=iQ312ArfJjfk6SsbJZQIGg&exp=1582828376
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE TV SPORT",Champions TV 1
-https://cdnbpp1.useetv.com/joss/194/champion1/chunklist_w379993603_b1344100_sleng.m3u8?enc=jVJBVp05hrUeXhzb_v3yew&exp=1582819010
+https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w379993603_b1344100_sleng.m3u8?enc=Huw4rAXFQ5kaJuPiHvUEvQ&exp=1582828421
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE TV SPORT",Champions TV 2
-https://edgejt6.useetv.com/joss/194/champion2/chunklist_w727818557_b1344100_sleng.m3u8?enc=Srd9CxLUC01PWW7Kjj_VBQ&exp=1582819032
+https://edgejt6.useetv.com/joss/194/champion2/chunklist_w727818557_b1344100_sleng.m3u8?enc=j5f4VIcAUnEv_XsqfJuhYg&exp=1582828449
 
 #EXTINF:0 group-title="USE TV SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
-https://cdnmdc2.useetv.com/joss/17/bein1/chunklist_w523080819_b8128000_sleng.m3u8?enc=PB9-Ao3FsSWElzT9rHDxgg&exp=1582818949
+https://cdnjt25.useetv.com/joss/17/bein1/chunklist_w523080819_b8128000_sleng.m3u8?enc=K7_Z-EIAU4xnaqFa4fv_5w&exp=1582828461
 
 #EXTINF:0 group-title="USE TV SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
-https://cdnmdc2.useetv.com/joss/17/bein2/chunklist_w115517397_b1344100_sleng.m3u8?enc=D6Bde5RXyOqanBlPMDfsXQ&exp=1582818980
+https://cdnbdsa1.useetv.com/joss/17/bein2/chunklist_w115517397_b1344100_sleng.m3u8?enc=nyyhzcXDFTxaFdprm4NdJA&exp=1582828483
 
 #EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
-https://cdnbal1.useetv.com/joss/17/foxsport1/chunklist_w651554190_b1344100_sleng.m3u8?enc=NjTDkFIPl7a-earnWa78FA&exp=1582819050
+https://cdnkbl1.useetv.com/joss/17/foxsport1/chunklist_w651554190_b1344100_sleng.m3u8?enc=5KJGCHjlTFgoTGerFuxnVQ&exp=1582828501
 
 #EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 2
-https://cdnbpp1.useetv.com/joss/17/foxsport2/chunklist_w2130220114_b1344100_sleng.m3u8?enc=NKFA0GkaIhhOX7CEtYLMpg&exp=1582819074
+https://cdnkbl2.useetv.com/joss/17/foxsport2/chunklist_w2130220114_b1344100_sleng.m3u8?enc=ozLa44sfUwsMfVs-B36SYg&exp=1582828562
 
 #EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 3
-https://cdnbdsa1.useetv.com/joss/17/foxsport3/chunklist_w1427889370_b1344100_sleng.m3u8?enc=8wmE_sXTJeOfwT1JpmQIhg&exp=1582819097
+https://cdnbal1.useetv.com/joss/17/foxsport3/chunklist_w1427889370_b1344100_sleng.m3u8?enc=ifsgPRpOqicskadsRVMCDA&exp=1582828588
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE TV SPORT", MNC Sports 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
@@ -111,66 +111,32 @@ https://cdnbdsa1.useetv.com/joss/15/useephoto/chunklist_w1776134862_b1344100_sle
 https://cdnmdc1.useetv.com/joss/15/useeprime/chunklist_w1801613929_b894100_sleng.m3u8?enc=NrmzvZdQJ6X8b1AyApJQGA&exp=1582818791
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",INDOSIAR
-https://cdnkbl1.useetv.com/joss/15/indosiar/chunklist_w1302022438_b894100_sleng.m3u8?enc=9LPnqIxTtQ3GcAsvtnKWZw&exp=1582818757
+https://cdnbpp1.useetv.com/joss/15/indosiar/chunklist_w1302022438_b894100_sleng.m3u8?enc=vCLOjMiEu5QVCYSNahi5Mw&exp=1582828636
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",ANTV
-https://cdnmdc1.useetv.com/joss/15/antv/chunklist_w1504398086_b894100_sleng.m3u8?enc=pSvWuDPhye74IJzggmA8XA&exp=1582818690
+https://cdnmdc2.useetv.com/joss/15/antv/chunklist_w1504398086_b894100_sleng.m3u8?enc=XSHExPe9Vb0IIeZKEZKBUg&exp=1582828618
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",TRANS 7
-https://cdnkbl2.useetv.com/joss/15/trans7/chunklist_w1839639217_b894100_sleng.m3u8?enc=DDQ72KCBCuKbnEcR2O-0OQ&exp=1582818643
+https://cdnkbl1.useetv.com/joss/15/trans7/chunklist_w1839639217_b1344100_sleng.m3u8?enc=DGbYQe4Bih5xeef-wXFUDw&exp=1582828731
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",TRANS TV
-https://cdnkbl2.useetv.com/joss/15/transtv/chunklist_w797808245_b1344100_sleng.m3u8?enc=dvSlb49ZQxJAIqdKeg8GoA&exp=1582818596
+https://cdnkbl2.useetv.com/joss/15/transtv/chunklist_w797808245_b1344100_sleng.m3u8?enc=9UYxiJbbGHw_tCULAJIOAg&exp=1582828761
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",NET
-https://cdnbal1.useetv.com/joss/15/net/chunklist_w497456214_b1344100_sleng.m3u8?enc=ez9OTJHmq7jtyIUfQknPzg&exp=1582818558
+https://cdnbal1.useetv.com/joss/15/net/chunklist_w497456214_b1344100_sleng.m3u8?enc=rKUCSi-Nk1fT65srg-58sg&exp=1582828683
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",SCTV
-https://cdnjt25.useetv.com/joss/15/sctv/chunklist_w1457962787_b1344100_sleng.m3u8?enc=hY7VmZl7jcB8UQTAIgf5OA&exp=1582818523
+https://cdnkbl1.useetv.com/joss/15/sctv/chunklist_w1457962787_b1344100_sleng.m3u8?enc=HKuzW8Zcjs2yTCUSAXePtw&exp=1582828703
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",TV ONE
 https://cdnbal1.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng.m3u8?enc=JzuDqsU99avqXR5JE6iOAg&exp=1582818481
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",METRO TV
-https://cdnkbl1.useetv.com/joss/15/metrotv/chunklist_w1947104551_b1344100_sleng.m3u8?enc=WDpVneTcP9cF-nqASvKCbA&exp=1582818448
+https://cdnjt25.useetv.com/joss/15/metrotv/chunklist_w1947104551_b1344100_sleng.m3u8?enc=54vSXYVleSeRF4MZeXDeKA&exp=1582828663
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",KOMPAS TV
-https://cdnkbl1.useetv.com/joss/15/kompastv/chunklist_w643424809_b894100_sleng.m3u8?enc=05BYnC9-L1nsPa-qxLvULw&exp=1582818406
+https://cdnbdsa1.useetv.com/joss/15/kompastv/chunklist_w643424809_b894100_sleng.m3u8?enc=MXF_FJ0D8bPwtyitfZioZw&exp=1582828832
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",RTV
-https://cdnmdc1.useetv.com/joss/14/rtv/chunklist_w16649763_b684100_sleng.m3u8?enc=rNKvsllV4Fn8filCAxfSYg&exp=1582818357
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",IDKU
-https://cdnbpp1.useetv.com/joss/15/idku/chunklist_w1387580713_b1344100_sleng.m3u8?enc=plTycmymhDlTBev-fXAwUw&exp=1582818313
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",BRITA SATU
-https://cdnbal1.useetv.com/joss/14/beritasatu/chunklist_w802483093_b684100_sleng.m3u8?enc=uNGrDH97OOsznSS2lyvoNw&exp=1582818260
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",TVRI
-https://cdnkbl2.useetv.com/joss/15/tvri/chunklist_w1460893440_b684100_sleng.m3u8?enc=0gwLDY2YbSFdFSEZNfOH4A&exp=1582818211
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",CNN INDONESIA
-https://cdnmdc1.useetv.com/joss/15/cnnindonesia/chunklist_w1686603180_b1344100_sleng.m3u8?enc=xFNWArZRJXikDnRUt19vyw&exp=1582818150
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",RUANG TRAMPIL
-https://cdnkbl2.useetv.com/joss/15/useeinfo/chunklist_w1745200842_b1344100_sleng.m3u8?enc=tTtcvgK-PBoVo1uJa56Z2A&exp=1582818090
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",AXN
-https://cdnkbl2.useetv.com/joss/17/axn/chunklist_w68350743_b684100_sleng.m3u8?enc=dCuvhPnYn3x2ochzM9JqYQ&exp=1582817466
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",TVN
-https://cdnbdsa1.useetv.com/joss/194/tvn/chunklist_w2007843362_b1344100_sleng.m3u8?enc=1im0gI9gv_F48keb7_yexg&exp=1582817581
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",BLUE ANT 
-https://cdnjt25.useetv.com/joss/194/blueant/chunklist_w532446455_b894100_sleng.m3u8?enc=0L-2OrjP2RwGEL6FAMIo0A&exp=1582817686
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",BLE ANT EXTREM
-https://cdnkbl2.useetv.com/joss/194/blueantextreme/chunklist_w1203302517_b894100_sleng.m3u8?enc=TNe6k-jLOOUCCQ07BZ6u4w&exp=1582817839
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",BIOSKOP INDONESIA
-https://cdnbpp1.useetv.com/joss/14/bioskopindonesia/chunklist_w41138482_b684100_sleng.m3u8?enc=FTNLUuWmwK6cZSAxTqczHw&exp=1582817969
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",
-V
 
 
 
