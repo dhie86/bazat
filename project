@@ -340,10 +340,10 @@ https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",Usee sport
-https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w2094597338_b1344100_sleng.m3u8?enc=XfTeIxDjuFCmAeI3PGlexg&exp=1582799381
+https://edgejt6.useetv.com/joss/15/useesport/chunklist_w2094597338_b1344100_sleng.m3u8?enc=2fXZ3h4lE94wvbUY-Xmyjg&exp=15827997499381
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE+MNC",Usee Sport 2
-https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w1031743170_b1344100_sleng.m3u8?enc=z4g8rZwSaBBZotwXE20y0Q&exp=15827994343608
+https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w1031743170_b1344100_sleng.m3u8?enc=DDTVHu0dO363lB7EZkmhOg&exp=1582799782994343608
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC", MNC Sports 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE+MNC",MNC Sports 2
