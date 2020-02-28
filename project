@@ -9,7 +9,8 @@ https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR HD
-https://etslive-2-vidio-com.akamaized.net/exp=1582838017~acl=/hls-b/ingest_205_*/*~hmac=fe6032248d5826e15d91675bd84267b0f1915273ec047aab702301144c6d1692/hls-b/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582868476~acl=/hls-p/ingest_205_*/*~hmac=d6de1cea2ebf872f293b98c5861567bcb396a7026dee89cf3ea7acb71d5524cd/hls-p/ingest_205_720p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
