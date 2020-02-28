@@ -8,8 +8,7 @@ https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR HD
-https://etslive-2-vidio-com.akamaized.net/exp=1582868476~acl=/hls-p/ingest_205_*/*~hmac=d6de1cea2ebf872f293b98c5861567bcb396a7026dee89cf3ea7acb71d5524cd/hls-p/ingest_205_720p/index.m3u8
-
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -49,7 +48,7 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL",RTV
-https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="LOKAL",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -63,14 +62,10 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b228
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1bCxIG.png" group-title="LOKAL", JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
 #EXTINF:-1 tvg-logo="https://storage-roov.mncdigital.com/upload/radios/1212-jazz.png" group-title="LOKAL", Ochanel
-https://etslive-2-vidio-com.akamaized.net/exp=1582748090~acl=/hls-b/ingest_geo_206_*/*~hmac=ab7aa46e5194d58f6afcb951ab51c72146c076d3c740918144cc9ba50d11b649/hls-b/ingest_geo_206_720p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", RTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582748344~acl=/hls-p/ingest_geo_1561_*/*~hmac=f22acb18c5f4d7e20efa4a3974292778928b14c9c56704d056c91a56d034d21d/hls-p/ingest_geo_1561_720p/index.m3u8
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee sport
-https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1197433059_b1344100_sleng.m3u8?enc=miRzOBHFz2cQjL58_zAKhA&exp=1582863797
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee Sport 2
 https://edgejt6.useetv.com/joss/15/useesport/chunklist_w434539509_b1344100_sleng.m3u8?enc=FJ2caUuRZ-A4-4Qn4e_54A&exp=1582915266
