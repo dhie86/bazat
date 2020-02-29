@@ -16,6 +16,8 @@ http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1583009907~acl=/hls-b/ingest_204_*/*~hmac=7da30d8b6b504028427cc57b81c27d5f8dd84f008a9b6ef19fb5122e33f705bc/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 
