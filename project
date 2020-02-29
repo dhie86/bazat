@@ -9,7 +9,6 @@ https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR HD
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL",INDOSIAR LIGA 1 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -76,6 +75,11 @@ https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w1437408093_b1344100_sle
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
 https://cdnjt25.useetv.com/joss/194/champion2/chunklist_w1035175328_b1344100_sleng.m3u8?enc=hB95qFAuwGOK6iWc1q5aCg&exp=1582993263
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
+https://token-media-vidio-com.akamaized.net/exp=1583000672~acl=/uploads/1910592/*~hmac=190bd52917e392897e2813efbd425c9473c9c73b5b6714e1e724b67905792e36/uploads/1910592/ets-lesti-20-20tirani-20video-20lirik-3574_5d33d54e_high.mp4.m3u8
+
+
 
 #EXTINF:0 group-title="USE TV SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
 
