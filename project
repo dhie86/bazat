@@ -10,6 +10,10 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR HD
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 
+https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL",INDOSIAR LIGA 1 
+https://etslive-2-vidio-com.akamaized.net/exp=1582988135~acl=/hls-b/ingest_205_*/*~hmac=adcbc2503c5ed7a73257589572b986c5d3768355e74aecd48d61ec2ae88729b7/hls-b/ingest_205_720p/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
