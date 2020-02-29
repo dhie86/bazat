@@ -69,50 +69,50 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1704187410_b1344100_sleng.m3u8?enc=P2gZBdQ97Tk0kelzbuawDg&exp=1582992782
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
-https://etslive-2-vidio-com.akamaized.net/exp=1583004882~acl=/hls-b/ingest_205_*/*~hmac=600451afad884f4bb535cf4ae578aa8e1ce933c33d5af68de9dc846149d8e0c2/hls-b/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583008971~acl=/hls-p/ingest_205_*/*~hmac=67268a0a725e852fbe5966d16fdffb0a8665829fb4b257d6c1f95a478202d40d/hls-p/ingest_205_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee Sport 2
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",O CHANEL
+https://etslive-2-vidio-com.akamaized.net/exp=1583004723~acl=/hls-p/ingest_geo_206_*/*~hmac=f7246c259d5cfc7635420956f046255ad5d1be08bf710833059a56de667b20b4/hls-p/ingest_geo_206_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 1
 https://etslive-2-vidio-com.akamaized.net/exp=1583004587~acl=/hls-b/ingest_geo_6685_*/*~hmac=cf0a9e19f8f98e0ebfca021ce0bba503dcabb0117bd49738c852952cf3f8d0f3/hls-b/ingest_geo_6685_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
-https://cdnjt25.useetv.com/joss/194/champion2/chunklist_w1035175328_b1344100_sleng.m3u8?enc=hB95qFAuwGOK6iWc1q5aCg&exp=1582993263
+https://etslive-2-vidio-com.akamaized.net/exp=1583004664~acl=/hls-p/ingest_geo_6686_*/*~hmac=b045006ecc0ea59138ab48c18bb4a7a2fe74683e32759fcb7884505b5349ec50/hls-p/ingest_geo_6686_720p/index.m3u8
 
 
-#EXTINF:0 group-title="USE TV SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
+#EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
 
 
-#EXTINF:0 group-title="USE TV SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
+#EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
 
 
-#EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
 
 
-#EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 2
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 2
 
 
-#EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 3
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 3
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE TV SPORT", MNC Sports 1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LIGA 1 & UCL", MNC Sports 1
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE TV SPORT",MNC Sports 2
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LIGA 1 & UCL",MNC Sports 2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="LIGA 1 & UCL",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",USEE PHOTO
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",USEE PHOTO
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",USEE PRIME
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",USEE PRIME
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",INDOSIAR
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",INDOSIAR
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",ANTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",ANTV
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",TRANS 7
