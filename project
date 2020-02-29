@@ -67,6 +67,11 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport
 https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1704187410_b1344100_sleng.m3u8?enc=P2gZBdQ97Tk0kelzbuawDg&exp=1582992782
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
+https://etslive-2-vidio-com.akamaized.net/exp=1583001057~acl=/hls-p/ingest_205_*/*~hmac=fa07c1ec1dc8e326510be95814b650894bcd2c0bb56f07b210a2ca39bb8b5c96/hls-p/ingest_205_720p/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee Sport 2
 
 
@@ -75,10 +80,6 @@ https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w1437408093_b1344100_sle
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
 https://cdnjt25.useetv.com/joss/194/champion2/chunklist_w1035175328_b1344100_sleng.m3u8?enc=hB95qFAuwGOK6iWc1q5aCg&exp=1582993263
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
-https://token-media-vidio-com.akamaized.net/exp=1583000672~acl=/uploads/1910592/*~hmac=190bd52917e392897e2813efbd425c9473c9c73b5b6714e1e724b67905792e36/uploads/1910592/ets-lesti-20-20tirani-20video-20lirik-3574_5d33d54e_high.mp4.m3u8
-
 
 
 #EXTINF:0 group-title="USE TV SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
