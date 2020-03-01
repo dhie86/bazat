@@ -74,10 +74,9 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport
-https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1704187410_b1344100_sleng.m3u8?enc=P2gZBdQ97Tk0kelzbuawDg&exp=1582992782
-
+https://edgejt6.useetv.com/joss/15/useesport/chunklist_w772077162_b1344100_sleng.m3u8?enc=uOC5qHUzJm9OnSbR4rXiRA&exp=1583070191
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
-https://etslive-2-vidio-com.akamaized.net/exp=1583067048~acl=/hls-p/ingest_777_*/*~hmac=476759d0c814d7a49369aa519c219783075db666acc111ace67fb031b00dce13/hls-p/ingest_777_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583075203~acl=/hls-b/ingest_6588_*/*~hmac=4d418bad9e4c78ee3de3d252d2b051999f360167166ef6fb3ed648a16c4895d8/hls-b/ingest_6588_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",O CHANEL
 https://etslive-2-vidio-com.akamaized.net/exp=1583067189~acl=/hls-p/ingest_206_*/*~hmac=1f2b879ac4cf5eb2d404fb99a20e40921ace129339e73dca8f60ae46825355fb/hls-p/ingest_206_720p/index.m3u8
 
