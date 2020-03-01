@@ -78,7 +78,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w1988115879_b1344100_sleng.m3u8?enc=ke4UQUkPAiNsFy3YQxBmhQ&exp=1583082217
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
-https://etslive-2-vidio-com.akamaized.net/exp=1583075203~acl=/hls-b/ingest_6588_*/*~hmac=4d418bad9e4c78ee3de3d252d2b051999f360167166ef6fb3ed648a16c4895d8/hls-b/ingest_6588_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583090173~acl=/hls-p/ingest_6588_*/*~hmac=b7cffb2ec2494d25dcf3cb050f119b71ecdc8540a17d080341a92dc048955f37/hls-p/ingest_6588_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",O CHANEL
 https://etslive-2-vidio-com.akamaized.net/exp=1583087186~acl=/hls-p/ingest_geo_6686_*/*~hmac=7af4efc2201ef663539f7786341048cfe02b16a2fe97ee5c2cabdc22a98f0963/hls-p/ingest_geo_6686_720p/index.m3u8
 
