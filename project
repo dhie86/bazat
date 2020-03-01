@@ -1,10 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL", MNCTV 
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL", MNCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1583009418~acl=/hls-p/ingest_870_*/*~hmac=095b5642585766d556bade6040b1a3d1f15dbf58b28990fb541e03aa8e45f7f4/hls-p/ingest_870_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL", GLOBAL TV
-https://etslive-2-vidio-com.akamaized.net/exp=1583009824~acl=/hls-b/ingest_778_*/*~hmac=6c160ad321cf63e4ce86b095a8acdc8d645c0cc3d28abb4280368d25654d684b/hls-b/ingest_778_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL", GLOBAL TV HD
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
@@ -12,7 +13,7 @@ https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1583067048~acl=/hls-p/ingest_777_*/*~hmac=476759d0c814d7a49369aa519c219783075db666acc111ace67fb031b00dce13/hls-p/ingest_777_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR HD
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 
@@ -20,7 +21,7 @@ http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1583009907~acl=/hls-b/ingest_204_*/*~hmac=7da30d8b6b504028427cc57b81c27d5f8dd84f008a9b6ef19fb5122e33f705bc/hls-b/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583087372~acl=/hls-p/ingest_204_*/*~hmac=8db9c610bbcd00e5312190b9e0dcb4078b217d9aa621ff43defe70ee9d413561/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 
@@ -74,18 +75,19 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport
-https://edgejt6.useetv.com/joss/15/useesport/chunklist_w772077162_b1344100_sleng.m3u8?enc=uOC5qHUzJm9OnSbR4rXiRA&exp=1583070191
+https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w1988115879_b1344100_sleng.m3u8?enc=ke4UQUkPAiNsFy3YQxBmhQ&exp=1583082217
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
 https://etslive-2-vidio-com.akamaized.net/exp=1583075203~acl=/hls-b/ingest_6588_*/*~hmac=4d418bad9e4c78ee3de3d252d2b051999f360167166ef6fb3ed648a16c4895d8/hls-b/ingest_6588_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",O CHANEL
-https://etslive-2-vidio-com.akamaized.net/exp=1583067189~acl=/hls-p/ingest_206_*/*~hmac=1f2b879ac4cf5eb2d404fb99a20e40921ace129339e73dca8f60ae46825355fb/hls-p/ingest_206_720p/index.m3u8
-
+https://etslive-2-vidio-com.akamaized.net/exp=1583087186~acl=/hls-p/ingest_geo_6686_*/*~hmac=7af4efc2201ef663539f7786341048cfe02b16a2fe97ee5c2cabdc22a98f0963/hls-p/ingest_geo_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583067249~acl=/hls-p/ingest_geo_6685_*/*~hmac=8eb21f4d3e40b42a162fd69ac7714e7981315822f2107f567dedc884288e53cf/hls-p/ingest_geo_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583087073~acl=/hls-p/ingest_geo_6685_*/*~hmac=75af8254b4fadb3855f0bf9dad971bfbb6008ebc7ab587d6a1fc9ee69088e8c5/hls-p/ingest_geo_6685_720p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1583004664~acl=/hls-p/ingest_geo_6686_*/*~hmac=b045006ecc0ea59138ab48c18bb4a7a2fe74683e32759fcb7884505b5349ec50/hls-p/ingest_geo_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583087186~acl=/hls-p/ingest_geo_6686_*/*~hmac=7af4efc2201ef663539f7786341048cfe02b16a2fe97ee5c2cabdc22a98f0963/hls-p/ingest_geo_6686_720p/index.m3u8
 
 
 #EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
