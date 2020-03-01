@@ -12,8 +12,7 @@ https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1583008971~acl=/hls-p/ingest_205_*/*~hmac=67268a0a725e852fbe5966d16fdffb0a8665829fb4b257d6c1f95a478202d40d/hls-p/ingest_205_720p/index.m3u8
-
+https://etslive-2-vidio-com.akamaized.net/exp=1583067048~acl=/hls-p/ingest_777_*/*~hmac=476759d0c814d7a49369aa519c219783075db666acc111ace67fb031b00dce13/hls-p/ingest_777_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR HD
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 
@@ -78,13 +77,13 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1704187410_b1344100_sleng.m3u8?enc=P2gZBdQ97Tk0kelzbuawDg&exp=1582992782
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
-https://etslive-2-vidio-com.akamaized.net/exp=1583008971~acl=/hls-p/ingest_205_*/*~hmac=67268a0a725e852fbe5966d16fdffb0a8665829fb4b257d6c1f95a478202d40d/hls-p/ingest_205_720p/index.m3u8
-
+https://etslive-2-vidio-com.akamaized.net/exp=1583067048~acl=/hls-p/ingest_777_*/*~hmac=476759d0c814d7a49369aa519c219783075db666acc111ace67fb031b00dce13/hls-p/ingest_777_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",O CHANEL
-https://etslive-2-vidio-com.akamaized.net/exp=1583009676~acl=/hls-p/ingest_206_*/*~hmac=b8e548a0b99cdc102ae8a4361831aee81fe1332f1cb2282fc2156a4e65407f83/hls-p/ingest_206_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583067189~acl=/hls-p/ingest_206_*/*~hmac=1f2b879ac4cf5eb2d404fb99a20e40921ace129339e73dca8f60ae46825355fb/hls-p/ingest_206_720p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583004587~acl=/hls-b/ingest_geo_6685_*/*~hmac=cf0a9e19f8f98e0ebfca021ce0bba503dcabb0117bd49738c852952cf3f8d0f3/hls-b/ingest_geo_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583067249~acl=/hls-p/ingest_geo_6685_*/*~hmac=8eb21f4d3e40b42a162fd69ac7714e7981315822f2107f567dedc884288e53cf/hls-p/ingest_geo_6685_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
 https://etslive-2-vidio-com.akamaized.net/exp=1583004664~acl=/hls-p/ingest_geo_6686_*/*~hmac=b045006ecc0ea59138ab48c18bb4a7a2fe74683e32759fcb7884505b5349ec50/hls-p/ingest_geo_6686_720p/index.m3u8
