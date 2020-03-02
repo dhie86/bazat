@@ -79,11 +79,11 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport
-https://cdnkbl2.useetv.com/joss/15/useesport/chunklist_w1010148292_b1344100_sleng.m3u8?enc=fq2wDwcdvl2cSR7eF7y6hw&exp=1583172696
+https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1010148292_b1344100_sleng.m3u8?enc=0iJ9HjtGDJfQNeLrNsibFw&exp=1583177703
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport 2
-https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1911003588_b1344100_sleng.m3u8?enc=jmfrNwEdmqcU6gaMymoiZg&exp=1583172739
+https://cdnkbl1.useetv.com/joss/15/useesports2/chunklist_w1911003588_b1344100_sleng.m3u8?enc=QvxvdMDxYxxDn16zIvn9xA&exp=1583177835
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
