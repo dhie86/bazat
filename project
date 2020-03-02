@@ -31,6 +31,7 @@ http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WaAOJA.png" group-title="LOKAL", TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 
@@ -39,7 +40,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_s
 
 #EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL", TV ONE
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
-
+https://cdnbdsa1.useetv.com/joss/15/antv/chunklist_w1417499305_b894100_sleng.m3u8?enc=IPGJLYOQ4PAwpfZxmCVXYQ&exp=1583180051
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
@@ -80,6 +81,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport
 https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1010148292_b1344100_sleng.m3u8?enc=0iJ9HjtGDJfQNeLrNsibFw&exp=1583177703
+https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w1010148292_b1344100_sleng.m3u8?enc=JS_SQJ-RlSqKwELYoURIqA&exp=1583179732
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport 2
