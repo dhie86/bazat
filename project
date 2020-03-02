@@ -76,12 +76,11 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport
-https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w219662607_b1344100_sleng.m3u8?enc=QIgwKRfaBkVb7LxQs9L3Mg&exp=1583155502
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w219662607_b1344100_sleng.m3u8?enc=Be5iSQ9RRc0qlWA9jratdA&exp=1583160244
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport 2
-https://cdnbal1.useetv.com/joss/15/useesports2/chunklist_w1144750341_b1344100_sleng.m3u8?enc=BvIZxfZcsbVwoET08ni1uw&exp=1583155549
-
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1144750341_b1344100_sleng.m3u8?enc=UJJGmq5aH5gWeD6RvssYgw&exp=1583160301
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
 https://etslive-2-vidio-com.akamaized.net/exp=1583154887~acl=/hls-b/ingest_205_*/*~hmac=6f15f52940452e5ead8916bf35eea4f2c7a575d9a5e1a811723fcc159341b4f5/hls-b/ingest_205_720p/index.m3u8
 
@@ -90,16 +89,16 @@ https://etslive-2-vidio-com.akamaized.net/exp=1583154887~acl=/hls-b/ingest_205_*
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 1
-https://cdnbdsa1.useetv.com/joss/194/champion1/chunklist_w447597961_b1344100_sleng.m3u8?enc=7892BmkYN7wt56iVw7ChxQ&exp=1583155693
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
-https://cdnmdc1.useetv.com/joss/194/champion2/chunklist_w1015550923_b1344100_sleng.m3u8?enc=cPv2SiS2B2bGvkhzP_sKSg&exp=1583155734
+
 
 #EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
-https://cdnjt25.useetv.com/joss/17/bein1/chunklist_w754093064_b8128000_sleng.m3u8?enc=LKZl5DeAuTLbjLYrMmytrQ&exp=1583155628
+
 
 #EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
-https://edgejt6.useetv.com/joss/17/bein2/chunklist_w1524862074_b1344100_sleng.m3u8?enc=2Nj8HYkTvQ6M8m0h5u8DZw&exp=1583155657
+
 
 #EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
 
