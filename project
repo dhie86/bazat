@@ -87,17 +87,18 @@ https://cdnkbl1.useetv.com/joss/15/useesports2/chunklist_w1911003588_b1344100_sl
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
-https://etslive-2-vidio-com.akamaized.net/exp=1583178003~acl=/hls-p/ingest_205_*/*~hmac=f2716ca7a8073b810230df0cfcdadf5933caf05e0a280e7fde20149eb435a7fd/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583183564~acl=/hls-p/ingest_205_*/*~hmac=43efa8f0f59b20b2943774e78221758b0235637827d97f4cfb9efe08340768bf/hls-p/ingest_205_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",O CHANEL
 https://etslive-2-vidio-com.akamaized.net/exp=1583177883~acl=/hls-p/ingest_206_*/*~hmac=f33d31eeda4865de7d5cc77a7558a50b18f816b82455dfb7aaacae2e4b2c8ae4/hls-p/ingest_206_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583178186~acl=/hls-p/ingest_geo_6685_*/*~hmac=27a89717dc603f9039bcb7c5edee1ce40f7fade41c367a073524d405b8d08c78/hls-p/ingest_geo_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583183311~acl=/hls-p/ingest_geo_6686_*/*~hmac=fe1f308adb4b208a4ff3e3af1c03ca37df0fb8d38cbe11b49a79155d0f94ec0a/hls-p/ingest_geo_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583183312~acl=/hls-b/ingest_geo_6686_*/*~hmac=fe73e21f829eef975c4863c0ac8a881d56282eb480014954a9c345343876f4eb/hls-b/ingest_geo_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1583178216~acl=/hls-p/ingest_geo_6686_*/*~hmac=f5b7ef2c3904cf942cfb55d6eeea0a403fdba8810771a01e458bdd51e60aafd7/hls-p/ingest_geo_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583183432~acl=/hls-p/ingest_geo_6685_*/*~hmac=765a846a8368e0d4692d7c8c02c7a69e7736d6c0ebfa0ee307e0db2934c02f8f/hls-p/ingest_geo_6685_720p/index.m3u8
 
 #EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
 https://edgejt6.useetv.com/joss/17/bein1/chunklist_w325159268_b8128000_sleng.m3u8?enc=NYTbjau_4Zguw1SSD8jllQ&exp=1583172847
