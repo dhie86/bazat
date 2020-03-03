@@ -80,33 +80,28 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 
 ########## USE TV ###########
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport
-https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1010148292_b1344100_sleng.m3u8?enc=0iJ9HjtGDJfQNeLrNsibFw&exp=1583177703
-https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w1010148292_b1344100_sleng.m3u8?enc=JS_SQJ-RlSqKwELYoURIqA&exp=1583179732
+https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w1841752382_b1344100_sleng.m3u8?enc=1htd9sTwGaaykBmYrZ0WaQ&exp=1583232090
+
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport 2
-https://cdnkbl1.useetv.com/joss/15/useesports2/chunklist_w1911003588_b1344100_sleng.m3u8?enc=QvxvdMDxYxxDn16zIvn9xA&exp=1583177835
+https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w2145294878_b1344100_sleng.m3u8?enc=T-2_UQYOEmtmloc2v7WNCQ&exp=1583232137
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
-https://etslive-2-vidio-com.akamaized.net/exp=1583183564~acl=/hls-p/ingest_205_*/*~hmac=43efa8f0f59b20b2943774e78221758b0235637827d97f4cfb9efe08340768bf/hls-p/ingest_205_720p/index.m3u8
-
+https://etslive-2-vidio-com.akamaized.net/exp=1583237401~acl=/hls-p/ingest_205_*/*~hmac=9935bed6aaa4febe2301abc3fb1d02a6b7e75325a5df87fcdc575ae35e5d51e9/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",O CHANEL
-https://etslive-2-vidio-com.akamaized.net/exp=1583177883~acl=/hls-p/ingest_206_*/*~hmac=f33d31eeda4865de7d5cc77a7558a50b18f816b82455dfb7aaacae2e4b2c8ae4/hls-p/ingest_206_720p/index.m3u8
-
+https://etslive-2-vidio-com.akamaized.net/exp=1583237342~acl=/hls-b/ingest_206_*/*~hmac=93e2e77e65a672a5b65791f1789b3363d6f2aade746d2ef87b46aa667235cf4b/hls-b/ingest_206_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583183311~acl=/hls-p/ingest_geo_6686_*/*~hmac=fe1f308adb4b208a4ff3e3af1c03ca37df0fb8d38cbe11b49a79155d0f94ec0a/hls-p/ingest_geo_6686_720p/index.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1583183312~acl=/hls-b/ingest_geo_6686_*/*~hmac=fe73e21f829eef975c4863c0ac8a881d56282eb480014954a9c345343876f4eb/hls-b/ingest_geo_6686_720p/index.m3u8
-
+https://edgejt6.useetv.com/joss/194/champion1/chunklist_w1275021691_b1344100_sleng.m3u8?enc=-cVBrKifN8fhicR-W7Qvuw&exp=1583232346
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1583183432~acl=/hls-p/ingest_geo_6685_*/*~hmac=765a846a8368e0d4692d7c8c02c7a69e7736d6c0ebfa0ee307e0db2934c02f8f/hls-p/ingest_geo_6685_720p/index.m3u8
-
+https://cdnbdsa1.useetv.com/joss/194/champion2/chunklist_w2010072910_b1344100_sleng.m3u8?enc=oQqYHdq4VS5r_DQkaK9V-Q&exp=1583232377
 #EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
-https://edgejt6.useetv.com/joss/17/bein1/chunklist_w325159268_b8128000_sleng.m3u8?enc=NYTbjau_4Zguw1SSD8jllQ&exp=1583172847
+https://edgejt6.useetv.com/joss/17/bein1/chunklist_w340830044_b8128000_sleng.m3u8?enc=6V-FcAewOFmHhRRjenHAXQ&exp=1583232185
 
 #EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
-https://cdnbdsa1.useetv.com/joss/17/bein2/chunklist_w1811837686_b1344100_sleng.m3u8?enc=ldsEtWoVXtjsUNMbJqw5bw&exp=1583172882
+https://cdnbdsa1.useetv.com/joss/17/bein2/chunklist_w2003004182_b1344100_sleng.m3u8?enc=vAaQPhhiFjgL9CJCxYE63w&exp=1583232243
 
 #EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
 
