@@ -706,8 +706,8 @@ http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
 
 
-#EXTINF:-1 group-title="NETFLIX",Netflix nightmare high
-https://vod2.useetv.com/vod/mp4:vod/vod/video/kpl/new/KPL180028%20NIGHTMARE%20HIGH%2007.mp4/chunklist_w1399300666.m3u8
+#EXTINF:-1 group-title="NETFLIX",Batle of Surabaya
+http://bit.ly/batleofsurabaya
 #EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 2
 https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 3
