@@ -706,7 +706,7 @@ http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
 
 
-#EXTINF:-1 group-title="NETFLIX",Batle of Surabaya
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2qV0HC1/batleo-of-surabaya.jpg" group-title="VOD LOKAL",Batle of Surabaya
 http://bit.ly/batleofsurabaya
 #EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 2
 https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
