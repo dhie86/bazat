@@ -208,7 +208,7 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414
 http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
 #http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYC6Tps2/Hits.png" group-title="MOVIE", Hits
-#http://210.210.155.35/uq2663/h/h17/index2.m3u8
+http://203.153.218.28:9981/stream/channelid/1868154562
 #http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XYkXfVV/Cinema-World.png" group-title="MOVIE",Cinema World
 http://210.210.155.35/uq2663/h/h04/01.m3u8
