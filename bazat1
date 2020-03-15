@@ -1,3 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="LOKAL",TVRI
+http://tvku.live:8888/gocir/herdiana91/3594
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL", MNCTV
+http://tvku.live:8888/gocir/herdiana91/26626
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL", MNCTV HD
+http://tvku.live:8888/gocir/herdiana91/2150
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL", GLOBAL TV
+http://tvku.live:8888/gocir/herdiana91/26625
+#EXTINF:-1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL", RCTI
+http://tvku.live:8888/gocir/herdiana91/3104
+#EXTINF:-1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL", RCTI backup
+http://tvku.live:8888/gocir/herdiana91/26624
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR
+http://tvku.live:8888/gocir/herdiana91/33
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+http://tvku.live:8888/gocir/herdiana91/78
+#EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
+http://tvku.live:8888/gocir/herdiana91/931
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
+http://tvku.live:8888/gocir/herdiana91/31
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4WaAOJA.png" group-title="LOKAL", TRANS 7 HD
+http://tvku.live:8888/gocir/herdiana91/930
+#EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="LOKAL", TRANS TV HD
+http://tvku.live:8888/gocir/herdiana91/929
+#EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL", TV ONE
+http://tvku.live:8888/gocir/herdiana91/3587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
+http://tvku.live:8888/gocir/herdiana91/3589
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VD6kGJ.png" group-title="LOKAL",Kompas TV
+http://tvku.live:8888/gocir/herdiana91/3590
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PgnZipP.png" group-title="LOKAL",CNN HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", iNews HD
+https://linier.akamaized.net/live/eds/iNews/sa_hls/iNews-avc1_2000000=1.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LOKAL",USee Prime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LOKAL",USee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="LOKAL",The Indonesia Chanel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL",RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UUy8bTn.png" group-title="LOKAL", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrQiXBm.jpg" group-title="LOKAL", JGO
+http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1bCxIG.png" group-title="LOKAL", JAKARTA GLOBE NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+#EXTINF:-1 tvg-logo="https://storage-roov.mncdigital.com/upload/radios/1212-jazz.png" group-title="LOKAL", Ochanel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", RTV
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",TVRI SPORT
+http://tvku.live:8888/gocir/herdiana91/3831
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",Usee sport
+http://tvku.live:8888/gocir/herdiana91/1185
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",Usee sport HD
+http://tvku.live:8888/gocir/herdiana91/26305
+#EXTTNF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",Usee sport 2
+http://tvku.live:8888/gocir/herdiana91/2408
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",Usee sport 2 HD
+http://tvku.live:8888/gocir/herdiana91/26281
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL", MNC Sports 1
+http://tvku.live:8888/gocir/herdiana91/1719
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",MNC Sports 2
+http://tvku.live:8888/gocir/herdiana91/25226
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
+http://tvku.live:8888/gocir/herdiana91/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",O CHANEL
+http://tvku.live:8888/gocir/herdiana91/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NpkFf0W/index.jpg" group-title="LIGA 1 & UCL",Champions TV 1
+http://tvku.live:8888/gocir/herdiana91/2407
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NpkFf0W/index.jpg" group-title="LIGA 1 & UCL",Champions TV 2
+http://tvku.live:8888/gocir/herdiana91/2409
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NpkFf0W/index.jpg" group-title="LIGA 1 & UCL",Champion TV 3
+http://tvku.live:8888/gocir/herdiana91/26585
+
+#EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1 ID
+http://tvku.live:8888/gocir/herdiana91/728
+#EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2 ID
+http://tvku.live:8888/gocir/herdiana91/729
+#EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein MAX malaysia
+http://tvku.live:8888/gocir/herdiana91/4272
+
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://i.postimg.cc/qvYtyKSP/Chrysanthemum.jpg",Fox Sports 1
+http://tvku.live:8888/gocir/herdiana91/6004
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://i.postimg.cc/qvYtyKSP/Chrysanthemum.jpg",Fox sports 2
+http://tvku.live:8888/gocir/herdiana91/6005
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://i.postimg.cc/qvYtyKSP/Chrysanthemum.jpg",Fox sports 3
+http://tvku.live:8888/gocir/herdiana91/6006
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",GALAXY
 http://tvku.live:8888/gocir/herdiana91/25461
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",BIOSKOP INDONESIA
