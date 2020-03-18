@@ -26,6 +26,7 @@ https://vcdnjt.useetv.com/joss/15/antv/chunklist_w73678906_b894100_sleng.m3u8
 http://tvku.live:8888/gocir/herdiana91/930
 #EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="LOKAL", TRANS TV HD
 http://tvku.live:8888/gocir/herdiana91/929
+
 #EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL", TV ONE
 http://tvku.live:8888/gocir/herdiana91/3587
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
@@ -51,8 +52,8 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist_b228
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
 #EXTINF:-1 tvg-logo="https://storage-roov.mncdigital.com/upload/radios/1212-jazz.png" group-title="LOKAL", Ochanel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", RTV
-
-
+#EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="LOKAL", TRANS TV backup
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w555830361_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",TVRI SPORT
 http://tvku.live:8888/gocir/herdiana91/3831
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M0XJ8KC/index.jpg" group-title="LIGA 1 & UCL",Usee sport
