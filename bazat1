@@ -16,6 +16,8 @@ http://tvku.live:8888/gocir/herdiana91/33
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 http://tvku.live:8888/gocir/herdiana91/78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV backup
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w943220311_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
 http://tvku.live:8888/gocir/herdiana91/931
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
@@ -32,8 +34,12 @@ https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w555830361_b1344100_sleng.m3
 http://tvku.live:8888/gocir/herdiana91/3587
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
 http://tvku.live:8888/gocir/herdiana91/3589
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV backup
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w1309708683_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VD6kGJ.png" group-title="LOKAL",Kompas TV
 http://tvku.live:8888/gocir/herdiana91/3590
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VD6kGJ.png" group-title="LOKAL",Kompas backup
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w260697412_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PgnZipP.png" group-title="LOKAL",CNN HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", iNews HD
@@ -95,9 +101,6 @@ http://tvku.live:8888/gocir/herdiana91/6005
 http://tvku.live:8888/gocir/herdiana91/6006
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",GALAXY
-http://tvku.live:8888/gocir/herdiana91/25461
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",BIOSKOP INDONESIA
 http://tvku.live:8888/gocir/herdiana91/908
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FLIX 
@@ -407,6 +410,13 @@ http://tvku.live:8888/gocir/herdiana91/25358
 http://tvku.live:8888/gocir/herdiana91/25359
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="SPORTS",TSN 5
 http://tvku.live:8888/gocir/herdiana91/25360
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="SPORTS",SETANTA 1
+http://tvku.live:8888/gocir/herdiana91/1199
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="SPORTS",SETANTA 2
+http://tvku.live:8888/gocir/herdiana91/2223
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="SPORTS",SUPER SPORT
+http://tvku.live:8888/gocir/herdiana91/2899
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MUSIK",DANGDUT
