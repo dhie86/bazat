@@ -136,9 +136,9 @@ http://tvku.live:8888/gocir/herdiana91/95
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FX
 http://tvku.live:8888/gocir/herdiana91/776
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO HD
-http://tvku.live:8888/gocir/herdiana91/210
+http://203.153.218.28:9981/stream/channelid/1299824667.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO FHD
-http://tvku.live:8888/gocir/herdiana91/1496
+#http://tvku.live:8888/gocir/herdiana91/1496
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO HITS
 http://tvku.live:8888/gocir/herdiana91/591
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO HITS FHD
