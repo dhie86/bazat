@@ -21,7 +21,7 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://vcdnjt.useetv.com/joss/15/net/chunklist_w943220311_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1873466354_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
 #http://tvku.live:8888/gocir/herdiana91/31
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
