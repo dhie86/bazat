@@ -17,7 +17,7 @@ https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-
 https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w667809515_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 #https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
-#http://tvku.live:8888/gocir/herdiana91/78
+#http://tvku.live:8888/gocir/yes2020/78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://vcdnjt.useetv.com/joss/15/net/chunklist_w943220311_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
@@ -28,8 +28,8 @@ https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1873466354_b1344100_sleng.m3u8
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w73678906_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WaAOJA.png" group-title="LOKAL", TRANS 7 HD
 https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w665453027_b1344100_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="LOKAL", TRANS TV HD
-#http://tvku.live:8888/gocir/herdiana91/929
+#EXTINF:-1 tvg-logo="http://images.away.com/6260434_640.png" group-title="LOKAL", TRANS TV HD
+#http://tvku.live:8888/gocir/yes2020/929
 #EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="LOKAL", TRANS TV 
 https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w555830361_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL", TV ONE
@@ -104,27 +104,27 @@ http://tvku.live:8888/gocir/herdiana91/6006
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",BIOSKOP INDONESIA
-http://tvku.live:8888/gocir/herdiana91/908
+http://tvku.live:8888/gocir/yes2020/908
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FLIX 
-http://tvku.live:8888/gocir/herdiana91/1497
+http://tvku.live:8888/gocir/yes2020/1497
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HITS
-http://tvku.live:8888/gocir/herdiana91/1195
+http://tvku.live:8888/gocir/yes2020/1195
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HITS MOVIE
-http://tvku.live:8888/gocir/herdiana91/957
+http://tvku.live:8888/gocir/yes2020/957
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",CINEMA WORD
-http://tvku.live:8888/gocir/herdiana91/1194
+http://tvku.live:8888/gocir/yes2020/1194
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",Chinese MOVIE
-http://tvku.live:8888/gocir/herdiana91/1859
+http://tvku.live:8888/gocir/yes2020/1859
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",CCM
-http://tvku.live:8888/gocir/herdiana91/2118
+http://tvku.live:8888/gocir/yes2020/2118
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX MOVIES
 http://203.153.218.28:9981/stream/channelid/756717990.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX MOVIES FHD
-http://tvku.live:8888/gocir/herdiana91/1205
+http://tvku.live:8888/gocir/yes2020/1205
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX ACTION MOVIES
-http://tvku.live:8888/gocir/herdiana91/1478
+http://tvku.live:8888/gocir/yes2020/1478
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX FAMILY MOVIE
-http://tvku.live:8888/gocir/herdiana91/14994
+http://tvku.live:8888/gocir/yes2020/14994
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX FAMILY MOVIE EN
 http://tvku.live:8888/gocir/herdiana91/1493
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX CRIME
