@@ -148,7 +148,8 @@ http://tvku.live:8888/gocir/yes2020/873
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",RED BY HBO
 http://tvku.live:8888/gocir/yes2020/874
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",CINEMAX
-http://tvku.live:8888/gocir/yes2020/2156
+http://203.153.218.28:9981/stream/channelid/255605374.m3u8
+#http://tvku.live:8888/gocir/yes2020/2156
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",LIFETIME
 http://tvku.live:8888/gocir/yes2020/866
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",WARNER TV
