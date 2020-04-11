@@ -1280,7 +1280,7 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 https://vcdnjt.useetv.com/joss/14/nickelodeon/.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KidsTV",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0 group-title="Kids",Boomerang
+#EXTINF:0 group-title="KidsTV",Boomerang
 https://vcdnjt.useetv.com/joss/14/boomerang/.m3u8
 #EXTINF:-1 group-title="KidsTV",Boomerang BACKUP
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
