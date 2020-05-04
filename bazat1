@@ -17,23 +17,23 @@ http://tvku.live:8888/gocirX/6s8h64sg/26626
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR
 #http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
-http://tvku.live:8888/gocirX/6s8h64sg/1845
+http://tvku.live:8888/gocirX/6s8h64sg/4839
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
-http://tvku.live:8888/gocirX/6s8h64sg/24
+http://tvku.live:8888/gocirX/6s8h64sg/3579
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV HD
 http://tvku.live:8888/gocirX/6s8h64sg/78
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
-http://tvku.live:8888/gocirX/6s8h64sg/32
+http://tvku.live:8888/gocirX/6s8h64sg/3593
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
-http://tvku.live:8888/gocirX/6s8h64sg/31
+http://tvku.live:8888/gocirX/6s8h64sg/3588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WaAOJA.png" group-title="LOKAL", TRANS 7 HD
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-http://tvku.live:8888/gocirX/6s8h64sg/35
+http://tvku.live:8888/gocirX/6s8h64sg/3583
 #EXTINF:-1 tvg-logo="http://images.away.com/6260434_640.png" group-title="LOKAL", TRANS TV HD
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
-http://tvku.live:8888/gocirX/6s8h64sg/34
+http://tvku.live:8888/gocirX/6s8h64sg/3584
 #EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="LOKAL", TRANS TV 
 #http://tvku.live:8888/gocirX/6s8h64sg/34
 #EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL", TV ONE
