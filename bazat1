@@ -29,7 +29,7 @@ http://tvku.live:8888/gocirX/6s8h64sg/3588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwoWW6z.png" group-title="LOKAL",ANTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WaAOJA.png" group-title="LOKAL", TRANS 7 HD
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+#http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 http://tvku.live:8888/gocirX/6s8h64sg/3583
 #EXTINF:-1 tvg-logo="http://images.away.com/6260434_640.png" group-title="LOKAL", TRANS TV HD
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
