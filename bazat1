@@ -40,87 +40,42 @@ https://delivery.macan.live/stream/id_tvri/index.m3u8?token=gratisan
 
 
 =================================================================FilmPremium1=======================================================================
-#EXTINF:-1 group-title="FilmPremium1",HBO 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO 
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 group-title="FilmPremium1",Fox Action Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox Action Movies
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-#EXTINF:-1 group-title="FilmPremium1",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FilmPremium1", FOX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wStqxGK.png" group-title="FilmPremium1",HBO Family
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wStqxGK.png" group-title="FilmPremium1",HBO Family Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO Family Backup
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvyFlJF.png" group-title="FilmPremium1",HBO HITS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvyFlJF.png" group-title="FilmPremium1",HBO HITS Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO HITS Backup
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="FilmPremium1",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="FilmPremium1",HBO Signature Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO Signature Backup
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 group-title="FilmPremium1",CINEMAX
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
-#EXTINF:-1 group-title="FilmPremium1",CINEMAX Backup
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1 group-title="FilmPremium1",NAT WILD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",NAT WILD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FilmPremium1",Fox Family Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FilmPremium1",Fox Family Movies Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox Family Movies Backup
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FilmPremium1",FOX Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FOX Movies HD
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FilmPremium1",FOX Movies Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FOX Movies Backup
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 group-title="FilmPremium1", MY CINEMA 
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 group-title="FilmPremium1", RAI MOVIE HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",RAI MOVIE HD 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="FilmPremium1",K+ 
-http://210.210.155.35/session/e3afc732-c3a1-11e8-bfe5-8e058f0468b5/uq2663/h/h08/02.m3u8 
-#EXTINF:-1 group-title="FilmPremium1",K+ backup
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 group-title="FilmPremium1", CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="FilmPremium1", ONE
-http://210.210.155.35/uq2663/h/h143/index.m3u8
-#EXTINF:-1 group-title="FilmPremium1", ZEEBIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="FilmPremium1", THRILL
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="FilmPremium1", THRILL backup
-http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-#EXTINF:-1 group-title="FilmPremium1", KIX
-http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF:-1 group-title="FilmPremium1", KIX Backup
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1 group-title="FilmPremium1", BLUE ANT EXTREME
-http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
-#EXTINF:-1 group-title="FilmPremium1", WAU HD
-http://nn2.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 group-title="FilmPremium1", CINEMA WORLD
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1 group-title="FilmPremium1",CINEMA WORLD backup
-http://45.126.83.51/uq2663/h/h04/index2.m3u8
-#EXTINF:-1 group-title="FilmPremium1", HITS ID
-http://45.126.83.51/uq2663/h/h37/01.m3u8
-#EXTINF:-1 group-title="FilmPremium1", HITS Backup
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 group-title="FilmPremium1", AXN
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-#EXTINF:-1 group-title="FilmPremium1", CELESTIAL MOVIES
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 group-title="FilmPremium1", WOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 group-title="FilmPremium1", 7HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1", 7HD
 http://80.78.65.170:8383/7HD
-#EXTINF:-1 group-title="FilmPremium1", STAR HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",STAR HD
 http://80.78.65.170:8383/StarHD
-#EXTINF:-1 group-title="FilmPremium1", FILM BOX
-https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-
 
  =======================================================================FilmPremium2==============================================================================================
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="FilmPremium2",FOX Family Movies
