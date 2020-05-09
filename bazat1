@@ -43,7 +43,7 @@ https://delivery.macan.live/stream/id_tvri/index.m3u8?token=gratisan
 
 =================================================================FilmPremium1=======================================================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",ACTION MOVIE
-http://mantul.biz.id:8888/live/gocir/0905/1125.ts
+#http://mantul.biz.id:8888/live/gocir/0905/1125.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",AMC
 http://mantul.biz.id:8888/live/gocir/0905/1123.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",AXN
@@ -73,7 +73,7 @@ http://mantul.biz.id:8888/live/gocir/0905/71.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",KIX
 http://mantul.biz.id:8888/live/gocir/0905/251.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",MR BEAN TV
-http://mantul.biz.id:8888/live/gocir/0905/950.ts
+http://mantul.biz.id:8888/live/gocir/0905/940.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",RED BY HBO
 http://mantul.biz.id:8888/live/gocir/0905/242.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",CINEMA INDO
@@ -85,9 +85,9 @@ http://mantul.biz.id:8888/live/gocir/0905/28.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",WARNER TV
 http://mantul.biz.id:8888/live/gocir/0905/49.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",ZEE TV
-http://mantul.biz.id:8888/live/gocir/0905/261.ts
+#http://mantul.biz.id:8888/live/gocir/0905/261.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",ACTION MOVIE
-http://mantul.biz.id:8888/live/gocir/0905/1125.ts
+#http://mantul.biz.id:8888/live/gocir/0905/1125.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FOX
 http://mantul.biz.id:8888/live/gocir/0905/9.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox LIFE
