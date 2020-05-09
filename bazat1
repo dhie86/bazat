@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRXJyB76/photo6170148836773833084.jpg" group-title="LOKAL",BERITA
-http://mantul.biz.id:8888/live/gocir/0905/176.ts
+http://mantul.biz.id:8888/live/gocir/0905/176
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRXJyB76/photo6170148836773833084.jpg" group-title="LOKAL",RCTI
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRXJyB76/photo6170148836773833084.jpg" group-title="LOKAL",GTV
