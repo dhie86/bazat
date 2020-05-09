@@ -42,42 +42,70 @@ https://delivery.macan.live/stream/id_tvri/index.m3u8?token=gratisan
 
 
 =================================================================FilmPremium1=======================================================================
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO 
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox Action Movies
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO Family Backup
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",ACTION MOVIE
+http://mantul.biz.id:8888/live/gocir/0905/1125.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",AMC
+http://mantul.biz.id:8888/live/gocir/0905/1123
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",AXN
+http://mantul.biz.id:8888/live/gocir/0905/199
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",BIOSKOP INDONESIA
+http://mantul.biz.id:8888/live/gocir/0905/243
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",B A I
+http://mantul.biz.id:8888/live/gocir/0905/133
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",B A E
+http://mantul.biz.id:8888/live/gocir/0905/133
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",CESETIAL
+http://mantul.biz.id:8888/live/gocir/0905/249
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FLIX
+http://mantul.biz.id:8888/live/gocir/0905/223
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO
+http://mantul.biz.id:8888/live/gocir/0905/1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO FAMILY
+http://mantul.biz.id:8888/live/gocir/0905/5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO HITS
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO HITS Backup
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO Signature Backup
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",NAT WILD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+http://mantul.biz.id:8888/live/gocir/0905/3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HBO SIGNATURE
+http://mantul.biz.id:8888/live/gocir/0905/44
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HITS
+http://mantul.biz.id:8888/live/gocir/0905/72
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",HITS MOVIE
+http://mantul.biz.id:8888/live/gocir/0905/71
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",KIX
+http://mantul.biz.id:8888/live/gocir/0905/251
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",MR BEAN TV
+http://mantul.biz.id:8888/live/gocir/0905/950
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",RED BY HBO
+http://mantul.biz.id:8888/live/gocir/0905/242
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",CINEMA INDO
+http://mantul.biz.id:8888/live/gocir/0905/158
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",THRILL
+http://mantul.biz.id:8888/live/gocir/0905/250
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",TVN MOVIE
+http://mantul.biz.id:8888/live/gocir/0905/28
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",WARNER TV
+http://mantul.biz.id:8888/live/gocir/0905/49
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",ZEE TV
+http://mantul.biz.id:8888/live/gocir/0905/261
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",ACTION MOVIE
+http://mantul.biz.id:8888/live/gocir/0905/1125
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FOX
+http://mantul.biz.id:8888/live/gocir/0905/9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox LIFE
+http://mantul.biz.id:8888/live/gocir/0905/33
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",Fox Family Movies Backup
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+http://mantul.biz.id:8888/live/gocir/0905/50
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FOX Movies HD
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FOX Movies Backup
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",RAI MOVIE HD 
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1", 7HD
-http://80.78.65.170:8383/7HD
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",STAR HD
-http://80.78.65.170:8383/StarHD
+http://mantul.biz.id:8888/live/gocir/0905/131
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",FX
+http://mantul.biz.id:8888/live/gocir/0905/37
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",CINEMA WORD 
+http://mantul.biz.id:8888/live/gocir/0905/256
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",CINEMAX
+http://mantul.biz.id:8888/live/gocir/0905/1029
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",GALAXY PREMIUM
+http://mantul.biz.id:8888/live/gocir/0905/1012
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxKDtQ94/photo6170148836773833083.jpg" group-title="movie1",GALAXY
+http://mantul.biz.id:8888/live/gocir/0905/298
 
  =======================================================================FilmPremium2==============================================================================================
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="FilmPremium2",FOX Family Movies
