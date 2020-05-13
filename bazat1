@@ -274,9 +274,9 @@ http://mantul.biz.id:8888/live/gocir/0905/145.ts
 
  =======================================================================SPORT==============================================================================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA SHOPE 1
-http://mantul.biz.id:8888/live/gocir/0905/88.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1589403907~acl=/hls-p/ingest_geo_6840_*/*~hmac=cb5b4c5f8c329c4d4a1874626ef875c40ca1725300ce0b8e48a3575f35986326/hls-p/ingest_geo_6840_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA SHOPE 2
-http://mantul.biz.id:8888/live/gocir/0905/87.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1589403941~acl=/hls-b/ingest_geo_6685_*/*~hmac=894d11c0280b1368eeede263b211e50ebe617e4f8611a63aadd60315a1ce9b09/hls-b/ingest_geo_6685_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA INDONESIA 1
 http://mantul.biz.id:8888/live/gocir/0905/241.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA INDONESIA 2
@@ -387,17 +387,17 @@ http://mantul.biz.id:8888/live/gocir/0905/153.ts
 http://mantul.biz.id:8888/live/gocir/0905/1104.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SINGAPORE",CHANEL5
-http://mantul.biz.id:8888/live/gocir/0905/1004.ts
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SINGAPORE",CHANEL8
-http://mantul.biz.id:8888/live/gocir/0905/1005.ts
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SINGAPORE",CHANEL U
-http://mantul.biz.id:8888/live/gocir/0905/560.ts
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SINGAPORE",OKTO ON 5
-http://mantul.biz.id:8888/live/gocir/0905/1008.ts
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SINGAPORE",SURIA
-http://mantul.biz.id:8888/live/gocir/0905/1006.ts
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SINGAPORE",VASATHAM
-http://mantul.biz.id:8888/live/gocir/0905/1007.ts
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",DANUR 3
@@ -415,7 +415,7 @@ http://mantul.biz.id:8888/live/gocir/0905/427.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",Preman Pensiun
 http://mantul.biz.id:8888/live/gocir/0905/1091.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",Wrkop DKI
-http://103.215.177.177:25461/gocir/0905/536,mkv
+http://103.215.177.177:25461/movie/gocir/0905/536.mkv?token=GhpQU0QMRAlBD1QEAAcBAAJcAFMLWlMNVQoBVwQMAlAAXVsLAFRTAgYVT0BGEhZTUVQ7DVZAWQBRBBsUQksBQD5RXBANRlQDVgZBThcSDVtVG15VB1paAVIHBAYCFEZCCFwaCBVVVQNXAkFOFwMcQlVLCgVePQdQFFtUUxUCRhBNGldcaAADXgJZB0APRFQUHBsNF0JAWVsXXlsaFVoNRhNZTFcVXkQGVQ9BThcFC0NeTRYdEFhBfCYQGxRSQBBXD0tRXVlGXBEOXBVAGUQNRW9LARdGEAZUD1dFFA0aVBBNGlVTTzsFXA1ZBgFBDwtYQxteRgNATxcPXVlfQ1cWbRFRXBANRlcGVQdTQEg=
 
 
 
