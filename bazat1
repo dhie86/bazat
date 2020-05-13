@@ -284,9 +284,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1589403941~acl=/hls-b/ingest_geo_6
 http://mantul.biz.id:8888/live/gocir/0905/241.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA INDONESIA 2
 http://mantul.biz.id:8888/live/gocir/0905/234.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",TVRI SPORT
-http://210.210.155.35/session/563af320-7955-11ea-aa1c-c81f66f89318/qwr9ew/s/s107/02.m3u8
-http://mantul.biz.id:8888/live/gocir/0905/618.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",AL KASS SPORT 1
 http://mantul.biz.id:8888/live/gocir/0905/354.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",AL KASS SPORT 1
