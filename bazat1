@@ -402,5 +402,22 @@ http://mantul.biz.id:8888/live/gocir/0905/1006.ts
 http://mantul.biz.id:8888/live/gocir/0905/1007.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",DANUR 3
+http://mantul.biz.id:8888/live/gocir/0905/276.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",DILAN 2018
+http://mantul.biz.id:8888/live/gocir/0905/320.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",DILAN 2019
+http://mantul.biz.id:8888/live/gocir/0905/321.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",GUNDALA
+http://mantul.biz.id:8888/live/gocir/0905/275.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",Jaga Pocong
+http://mantul.biz.id:8888/live/gocir/0905/1086.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",Ratu Ilmu Hitam
+http://mantul.biz.id:8888/live/gocir/0905/427.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",Preman Pensiun
+http://mantul.biz.id:8888/live/gocir/0905/1091.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",Wrkop DKI
+http://103.215.177.177:25461/gocir/0905/536,mkv
+
 
 
