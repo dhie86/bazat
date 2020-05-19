@@ -277,14 +277,18 @@ http://mantul.biz.id:8888/live/gocir/0905/1169.ts
 http://mantul.biz.id:8888/live/gocir/0905/145.ts
 
  =======================================================================SPORT==============================================================================================
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA SHOPE 1
-https://etslive-2-vidio-com.akamaized.net/exp=1589403907~acl=/hls-p/ingest_geo_6840_*/*~hmac=cb5b4c5f8c329c4d4a1874626ef875c40ca1725300ce0b8e48a3575f35986326/hls-p/ingest_geo_6840_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA SHOPE 2
-https://etslive-2-vidio-com.akamaized.net/exp=1589403941~acl=/hls-b/ingest_geo_6685_*/*~hmac=894d11c0280b1368eeede263b211e50ebe617e4f8611a63aadd60315a1ce9b09/hls-b/ingest_geo_6685_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA INDONESIA 1
 http://mantul.biz.id:8888/live/gocir/0905/241.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",LIGA INDONESIA 2
 http://mantul.biz.id:8888/live/gocir/0905/234.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",TVRI SPORT
+http://mantul.biz.id:8888/live/gocir/0905/75.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",ASTRO SPORT 1
+http://mantul.biz.id:8888/live/gocir/0905/162.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",ASTRO SPORT 3
+http://mantul.biz.id:8888/live/gocir/0905/160.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",ASTRO SPORT 4
+http://mantul.biz.id:8888/live/gocir/0905/159.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",AL KASS SPORT 1
 http://mantul.biz.id:8888/live/gocir/0905/354.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",AL KASS SPORT 1
@@ -307,10 +311,8 @@ http://mantul.biz.id:8888/live/gocir/0905/549.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",CHAMPION TV 1
 http://mantul.biz.id:8888/live/gocir/0905/232.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",CHAMPION TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1589403636~acl=/hls-p/ingest_geo_6686_*/*~hmac=6a90cb214bb1287298edd852c832582f97b722d6f22c027d4ebddeaa21a99455/hls-p/ingest_geo_6686_720p/index.m3u8
 http://mantul.biz.id:8888/live/gocir/0905/253.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",CHAMPION TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1589403595~acl=/hls-b/ingest_geo_6786_*/*~hmac=c4a95ac7da95029630646f01a83fb7f13d8f5974b5aff5068a32cf529d52fb70/hls-b/ingest_geo_6786_720p/index.m3u8
 http://mantul.biz.id:8888/live/gocir/0905/77.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="SPORT",DUBAI SPORT 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
@@ -427,5 +429,5 @@ http://mantul.biz.id:8888/movie/gocir/0905/1091.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",Wrkop DKI
 http://103.215.177.177:25461/movie/gocir/0905/536.mkv?token=GhpQU0QMRAlBD1QEAAcBAAJcAFMLWlMNVQoBVwQMAlAAXVsLAFRTAgYVT0BGEhZTUVQ7DVZAWQBRBBsUQksBQD5RXBANRlQDVgZBThcSDVtVG15VB1paAVIHBAYCFEZCCFwaCBVVVQNXAkFOFwMcQlVLCgVePQdQFFtUUxUCRhBNGldcaAADXgJZB0APRFQUHBsNF0JAWVsXXlsaFVoNRhNZTFcVXkQGVQ9BThcFC0NeTRYdEFhBfCYQGxRSQBBXD0tRXVlGXBEOXBVAGUQNRW9LARdGEAZUD1dFFA0aVBBNGlVTTzsFXA1ZBgFBDwtYQxteRgNATxcPXVlfQ1cWbRFRXBANRlcGVQdTQEg=
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD ACTION",12 strong
+http://mantul.biz.id:8888/movie/gocir/0905/889.mp4
