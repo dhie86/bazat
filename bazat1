@@ -429,7 +429,7 @@ http://mantul.biz.id:8888/movie/gocir/0905/1091.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD INDO",Wrkop DKI
 http://103.215.177.177:25461/movie/gocir/0905/536.mkv?token=GhpQU0QMRAlBD1QEAAcBAAJcAFMLWlMNVQoBVwQMAlAAXVsLAFRTAgYVT0BGEhZTUVQ7DVZAWQBRBBsUQksBQD5RXBANRlQDVgZBThcSDVtVG15VB1paAVIHBAYCFEZCCFwaCBVVVQNXAkFOFwMcQlVLCgVePQdQFFtUUxUCRhBNGldcaAADXgJZB0APRFQUHBsNF0JAWVsXXlsaFVoNRhNZTFcVXkQGVQ9BThcFC0NeTRYdEFhBfCYQGxRSQBBXD0tRXVlGXBEOXBVAGUQNRW9LARdGEAZUD1dFFA0aVBBNGlVTTzsFXA1ZBgFBDwtYQxteRgNATxcPXVlfQ1cWbRFRXBANRlcGVQdTQEg=
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD ACTION",12 strong
-http://mantul.biz.id:8888/movie/gocir/0905/889.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD ACTION",bad
 http://mantul.biz.id:8888/movie/gocir/0905/362.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="VOD ACTION",12 strong
+http://mantul.biz.id:8888/movie/gocir/0905/889.mp4
