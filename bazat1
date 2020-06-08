@@ -22,9 +22,9 @@ http://nonton.site:8888/bazat/2819/1845
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",HI indo
-http://mantul.biz.id:8888/live/gocir/22005/192.ts
+http://nonton.site:8888/bazat/2819/192
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",Kompas TV
-http://mantul.biz.id:8888/live/gocir/22005/210.ts
+http://nonton.site:8888/bazat/2819/210
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",Metro TV
@@ -63,11 +63,11 @@ http://nonton.site:8888/bazat/2819/1727
 
 ================================================================MOVIE=======================================================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="movie1",FOX Action
-https://macan.live:8888/live/wWJvo/1591576274/70.ts
+http://nonton.site:8888/bazat/2819/70
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="movie1",Fox LIFE
-http://mantul.biz.id:8888/live/gocir/22005/33.ts
+http://nonton.site:8888/bazat/2819/33
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="movie1",Fox Family Movies Backup
-http://mantul.biz.id:8888/live/gocir/22005/50.ts
+http://nonton.site:8888/bazat/2819/50
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="movie1",FOX Movies HD
 http://mantul.biz.id:8888/live/gocir/22005/131.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="movie1",FX
