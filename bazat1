@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",RCTI
-http://mantul.biz.id:8888/live/gocir/22005/190.ts
+https://anevia114.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI-avc1_1000000=15-1715349190000000.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",GTV
-http://mantul.biz.id:8888/live/gocir/22005/192.ts
+https://anevia114.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV-avc1_1000000=7-1715350320439334.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",MNC TV
-http://mantul.biz.id:8888/live/gocir/22005/191.ts
+https://anevia114.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI-avc1_2499968=10-1715350090000000.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",ANTV
 http://nonton.site:8888/citra76/22056/31
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXm19RZp/photo6174929968597936890.jpg" group-title="LOKAL",TVONE
